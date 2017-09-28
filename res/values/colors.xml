@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#2a2a2a</color>
+    <color name="colorAccent">#2a2a2a</color>
+
+    <color name="action_bar_color">#FFF</color>
+    <color name="action_bar_text_color">#3c5769</color>
+
+    <color name="normal_btn_bg_noraml">#407013</color>
+    <color name="normal_btn_bg_selected">#90407013</color>
+
+    <color name="mylocation_btn_bg_noraml">#E02a2a2a</color>
+    <color name="mylocation_btn_bg_selected">#902a2a2a</color>
+
+    <color name="navi_item_selected">#503a3a3a</color>
+    <color name="navi_item_normal">#50FFFFFF</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="black">#000000</color>
+
+    <color name="call_button_normal">#181818</color>
+    <color name="call_button_press">#909090</color>
+    <color name="navi_button_normal">#FFF</color>
+    <color name="navi_button_press">#909090</color>
+
+    <color name="edit_hint_color">#903c5769</color>
+</resources>

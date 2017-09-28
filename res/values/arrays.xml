@@ -1,0 +1,2562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="station_name">
+        <item>102. 망원역 1번출구 앞</item>
+        <item>103. 망원역 2번출구 앞</item>
+        <item>104. 합정역 1번출구 앞</item>
+        <item>105. 합정역 5번출구 앞</item>
+        <item>106. 합정역 7번출구 앞</item>
+        <item>107. 신한은행 서교동금융센터점 앞</item>
+        <item>108. 서교동 사거리</item>
+        <item>109. 제일빌딩 앞</item>
+        <item>111. 상수역 2번출구 앞</item>
+        <item>112. 극동방송국 앞</item>
+        <item>113. 홍대입구역 2번출구 앞</item>
+        <item>114. 홍대입구역 8번출구 앞</item>
+        <item>115. 사루비아 빌딩 앞</item>
+        <item>116. 일진아이윌아파트 옆</item>
+        <item>118. 광흥창역 2번출구 앞</item>
+        <item>119. 서강나루 공원</item>
+        <item>120. 신수동 사거리</item>
+        <item>121. 마포소방서 앞</item>
+        <item>122. 신성기사식당 앞</item>
+        <item>124. 서강대 정문 건너편</item>
+        <item>125. 서강대 남문 옆</item>
+        <item>126. 서강대 후문 옆</item>
+        <item>127. 현대벤처빌 앞</item>
+        <item>128. 신촌역(2호선) 1번출구 옆</item>
+        <item>129. 신촌역(2호선) 6번출구 옆</item>
+        <item>130. 신촌역(2호선) 7번출구 앞</item>
+        <item>132. 창천문화공원</item>
+        <item>134. 연세로 명물길</item>
+        <item>135. 명물길 원형무대 앞</item>
+        <item>136. 대흥동 주민센터</item>
+        <item>137. NH농협 신촌지점 앞</item>
+        <item>138. 신촌동 제1공영주차장 앞</item>
+        <item>139. 연세대 정문 건너편</item>
+        <item>140. 이화여대 후문</item>
+        <item>141. 연대 대운동장 옆</item>
+        <item>142. 아현역 4번출구 앞</item>
+        <item>143. 공덕역 2번출구</item>
+        <item>144. 공덕역 8번출구</item>
+        <item>145. 공덕역 5번출구</item>
+        <item>146. 마포역 1번출구 뒤</item>
+        <item>147. 마포역 4번출구 뒤</item>
+        <item>148. 용강동 주민센터 앞</item>
+        <item>150. 서강대역 2번출구 앞</item>
+        <item>151. 망원1동주민센터</item>
+        <item>152. 마포구민체육센터 앞</item>
+        <item>153. 성산2교 사거리</item>
+        <item>154. 마포구청역 </item>
+        <item>155. 가좌역1 번출구 뒤</item>
+        <item>156. 서울서부지방법원 앞</item>
+        <item>157. 애오개역 4번출구 앞</item>
+        <item>158. 독립문 어린이 공원</item>
+        <item>159. 이대역 4번 출구</item>
+        <item>160. 아현동 가구거리</item>
+        <item>161. 무악재역1번 출구</item>
+        <item>162. 봉원고가차도 밑</item>
+        <item>163. 명지전문대학교 정문 앞</item>
+        <item>164. 북가좌1동 주민센터 </item>
+        <item>165. 모래내 우체국</item>
+        <item>166. 남가좌1동 주민센터</item>
+        <item>167. 연가초등학교 옆</item>
+        <item>168. 남가좌동 시장삼거리</item>
+        <item>169. 북가좌 삼거리</item>
+        <item>170. 가재울 뉴타운 주유소 옆</item>
+        <item>171. 임광빌딩 앞</item>
+        <item>172. 서대문소방서</item>
+        <item>173. 서대문역 8번출구 앞</item>
+        <item>175. 홍연2교옆</item>
+        <item>177. 북가좌 초등학교</item>
+        <item>178. 증산3교 앞</item>
+        <item>179. 가좌역 4번출구 앞</item>
+        <item>180. 충정로역 7번출구 뒤</item>
+        <item>181. 망원초록길 입구</item>
+        <item>182. 망원2빗물펌프장 앞</item>
+        <item>183. 하늘채코오롱아파트 건너편</item>
+        <item>184. SK망원동주유소 건너편</item>
+        <item>185. 마포 신수공원 앞</item>
+        <item>186. 월드컵공원</item>
+        <item>188. 홍은동 정원여중 입구</item>
+        <item>191. 정명학원</item>
+        <item>192. 연서어린이공원</item>
+        <item>194. 증산교 앞</item>
+        <item>195. 모래내고가차도 </item>
+        <item>196. 연희교차로 인근</item>
+        <item>198. 충정2교</item>
+        <item>199. 서울 월드컵 경기장</item>
+        <item>200. 국회의원회관</item>
+        <item>201. 진미파라곤 앞</item>
+        <item>202. 국민일보 앞</item>
+        <item>203. 국회의사당역 3번출구 옆</item>
+        <item>204. 국회의사당역 5번출구 옆</item>
+        <item>205. 산업은행 앞</item>
+        <item>206. KBS 앞</item>
+        <item>207. 여의나루역 1번출구 앞</item>
+        <item>209. 유진투자증권빌딩 앞</item>
+        <item>210. 신한금융투자후문 앞</item>
+        <item>211. 여의도역 4번출구 옆</item>
+        <item>212. 여의도역 1번출구 옆</item>
+        <item>213. KT앞</item>
+        <item>214. 금융감독원 앞</item>
+        <item>215. 여의도고교 앞</item>
+        <item>216. 삼부아파트1동 앞</item>
+        <item>217. NH농협은행 앞</item>
+        <item>218. 증권거래소 앞</item>
+        <item>219. 롯데캐슬엠파이어 옆</item>
+        <item>220. 미성아파트 A동 앞</item>
+        <item>221. 여의도초교 앞</item>
+        <item>222. 시범아파트버스정류장 옆</item>
+        <item>223. 진주아파트상가 앞</item>
+        <item>224. 롯데캐슬 앞</item>
+        <item>225. 앙카라공원 앞</item>
+        <item>226. 샛강역 1번출구 앞</item>
+        <item>227. 양평2나들목 보행통로 입구</item>
+        <item>228. 선유도역 3번출구 앞</item>
+        <item>229. 양평1 보행육교 앞</item>
+        <item>230. 영등포구청역 1번출구</item>
+        <item>231. 남부고용노동지청 남측</item>
+        <item>232. 양평우림 이비즈센타 앞</item>
+        <item>233. 한국연예사관 건물 앞</item>
+        <item>234. 영등포구민체육센터 앞</item>
+        <item>235. 신길동 우리은행 옆</item>
+        <item>236. 문래동자이아파트 앞</item>
+        <item>237. 보라매 두산위브 앞</item>
+        <item>238. 제2구민체육센타 앞</item>
+        <item>239. 유스호스텔 앞</item>
+        <item>240. 문래역 4번출구 앞</item>
+        <item>241. 신길우성1차아파트 앞 공원</item>
+        <item>242. 신길선원가와인아파트 앞</item>
+        <item>243. 이앤씨드림타워 앞</item>
+        <item>244. 영등포삼환아파트 앞</item>
+        <item>245. 삼성생명 당산사옥 앞</item>
+        <item>247. 당산역 10번출구 앞</item>
+        <item>248. 초원아파트 앞</item>
+        <item>249. 여의도중학교 옆</item>
+        <item>250. 우주마루아파트 201동 앞</item>
+        <item>251. 서울지방병무청 버스정류장</item>
+        <item>252. 보라매역4번출구</item>
+        <item>253. 남서울아파트 14동앞</item>
+        <item>254. 도림신협 앞</item>
+        <item>255. 도림4거리</item>
+        <item>256. 동아에코빌입구</item>
+        <item>257. 신길삼거리(우리은행)</item>
+        <item>258. 신길역3번출구</item>
+        <item>259. 대방역6번출구</item>
+        <item>260. 여의도 마리나선착장 앞</item>
+        <item>262. 영문초등학교 사거리</item>
+        <item>263. 근로자회관 사거리</item>
+        <item>264. 교보생명보험 앞</item>
+        <item>265. 영등포유통상가 사거리</item>
+        <item>266. 영등포청과시장 사거리</item>
+        <item>267. 삼성화재 사옥 옆</item>
+        <item>268. 그랜드컨벤션센터 앞</item>
+        <item>271. 샛강생태공원방문자센터 앞</item>
+        <item>272. 당산육갑문</item>
+        <item>300. 정동사거리</item>
+        <item>301. 경복궁역 7번출구 앞</item>
+        <item>302. 경복궁역 4번출구 뒤</item>
+        <item>303. 광화문역 1번출구 앞</item>
+        <item>304. 광화문역 2번출구 앞</item>
+        <item>305. 종로구청 옆</item>
+        <item>306. 광화문역 7번출구 앞</item>
+        <item>307. 서울역사박물관 앞</item>
+        <item>308. 광화문 S타워 앞</item>
+        <item>309. 광화문역 6번출구 옆</item>
+        <item>310. 청계광장 옆</item>
+        <item>311. 서울광장 옆</item>
+        <item>312. 시청역 1번출구 뒤</item>
+        <item>313. 서울역 광장 파출소 옆</item>
+        <item>314. 국립현대미술관</item>
+        <item>315. 신한은행 안국역지점 옆</item>
+        <item>316. 종각역 1번출구 앞</item>
+        <item>318. 광교사거리 남측</item>
+        <item>320. 을지로입구역 4번출구 앞</item>
+        <item>321. 한국외환은행 본점 앞</item>
+        <item>322. 명동성당 앞</item>
+        <item>324. 신세계백화점 본점 앞</item>
+        <item>326. 안국역 5번출구 앞</item>
+        <item>327. 낙원상가 옆</item>
+        <item>328. 탑골공원 앞</item>
+        <item>329. 청계2가 사거리 옆</item>
+        <item>330. 청계천 한빛광장</item>
+        <item>331. 을지로2가 사거리 북측</item>
+        <item>332. 을지로2가 사거리 남측</item>
+        <item>334. 종로3가역 2번출구 뒤</item>
+        <item>335. 종로3가역 15번출구 앞</item>
+        <item>336. 티마크 호텔 앞</item>
+        <item>337. 창경궁 입구</item>
+        <item>338. 세운스퀘어 앞</item>
+        <item>339. 종로4가 사거리</item>
+        <item>340. 혜화동 로터리</item>
+        <item>341. 혜화역 3번출구 뒤</item>
+        <item>342. 대학로 마로니에공원</item>
+        <item>343. 예일빌딩(율곡로) 앞</item>
+        <item>344. 성균관대 E하우스 앞</item>
+        <item>345. 서울보증보험본사 앞</item>
+        <item>346. 맥스타일 앞</item>
+        <item>347. 동대문역사문화공원역 9번출구 앞</item>
+        <item>348. 독립문역 사거리</item>
+        <item>349. 사직동주민센터</item>
+        <item>350. KEB 하나은행(내자동 지점) 앞</item>
+        <item>351. 청운초교 앞 삼거리</item>
+        <item>352. 중앙고입구 삼거리</item>
+        <item>353. 재동초교 앞 삼거리</item>
+        <item>354. 포르투갈 대사관 앞</item>
+        <item>355. 서울사대부속초교 앞</item>
+        <item>356. KT혜화지사 앞</item>
+        <item>358. 성대입구 사거리</item>
+        <item>359. 원남동사거리</item>
+        <item>361. 동묘앞역 1번출구 뒤</item>
+        <item>362. 청계8가 사거리</item>
+        <item>363. 신설동역 11번출구 뒤</item>
+        <item>364. 창신역 1번출구 앞</item>
+        <item>367. 독립문역 3-1번출구 </item>
+        <item>368. SK 서린빌딩 앞</item>
+        <item>369. 광화문 시민열린마당</item>
+        <item>370. 시청역(2호선) 9번출구 뒤</item>
+        <item>371. 동대입구역 6번출구 뒤</item>
+        <item>372. 약수역 4번출구 뒤</item>
+        <item>373. 청구 어린이공원</item>
+        <item>374. 청구역 2번출구 앞</item>
+        <item>375. 다산 어린이공원</item>
+        <item>377. 서울역 4번출구 앞</item>
+        <item>378. 청계7가 사거리</item>
+        <item>379. 서울역9번출구</item>
+        <item>380. CJ제일제당 앞</item>
+        <item>381. 장충체육관</item>
+        <item>382. 약수역 10번출구 앞</item>
+        <item>383. 신당역 5번 출구</item>
+        <item>384. 종로학원본원 </item>
+        <item>385. 종각역 5번출구</item>
+        <item>386. 올림픽기념 국민생활관 앞</item>
+        <item>387. 훈련원공원주차장 앞</item>
+        <item>388. 동성중학교 앞</item>
+        <item>400. 상암한화오벨리스크 1차 앞</item>
+        <item>401. 상암월드컵파크 10단지 앞</item>
+        <item>402. 상암월드컵파크 9단지 앞</item>
+        <item>403. 부엉이공원 앞</item>
+        <item>405. DMC빌 앞</item>
+        <item>406. 상암월드컵파크 7단지 앞</item>
+        <item>407. 마포구 육아종합지원센터</item>
+        <item>408. LG CNS앞</item>
+        <item>409. 누리꿈스퀘어 옆</item>
+        <item>410. 상암중학교 옆</item>
+        <item>411. DMC홍보관</item>
+        <item>412. DMC산학협력연구센터 앞</item>
+        <item>413. 상암월드컵파크 3단지 후문</item>
+        <item>414. 상암동주민센터 옆</item>
+        <item>415. DMC역 9번출구 앞</item>
+        <item>416. 상암월드컵파크 1단지 교차로</item>
+        <item>417. DMC역 2번출구 옆</item>
+        <item>418. 월드컵경기장역 3번출구 옆</item>
+        <item>419. 홈플러스 앞</item>
+        <item>420. 서울시 공공자전거 운영센터 옆</item>
+        <item>421. 마포구청 앞</item>
+        <item>500. 어린이대공원역 3번출구 앞</item>
+        <item>501. 광진구의회 앞</item>
+        <item>502. 뚝섬유원지역 1번출구 앞</item>
+        <item>503. 더샵스타시티 C동 앞</item>
+        <item>504. 신자초교입구교차로</item>
+        <item>505. 자양사거리 광진아크로텔 앞</item>
+        <item>506. 금호 어울림 아파트 앞</item>
+        <item>507. 성수아이에스비즈타워 앞</item>
+        <item>508. 성수아카데미타워 앞</item>
+        <item>509. 이마트 버스정류소 옆</item>
+        <item>510. 서울숲 남문 버스정류소 옆</item>
+        <item>511. 서울숲역 4번 출구 옆</item>
+        <item>512. 뚝섬역 1번 출구 옆</item>
+        <item>513. 뚝섬역 5번 출구 정류소 옆</item>
+        <item>514. 성수사거리 버스정류장 앞</item>
+        <item>515. 광양중학교 앞</item>
+        <item>516. 광진메디칼 앞</item>
+        <item>518. 청계천 박물관 앞</item>
+        <item>519. 양지사거리</item>
+        <item>520. 상왕십리역 4번 출구 앞</item>
+        <item>521. 왕십리역 11번 출구 앞</item>
+        <item>522. 금호역 1번출구 앞</item>
+        <item>523. 옥수동성당 옆</item>
+        <item>524. 래미안금호하이리버 아파트 102동 옆</item>
+        <item>525. 한양대병원사거리</item>
+        <item>526. 용답토속공원 앞</item>
+        <item>529. 장한평역 8번 출구 앞</item>
+        <item>530. 청계벽산아파트 텐즈힐아파트 정류소</item>
+        <item>533. 우리은행 금호동 지점 앞</item>
+        <item>534. 금호사거리</item>
+        <item>535. 응봉삼거리</item>
+        <item>536. 행당역 2번출구 앞</item>
+        <item>537. 한양대후문역 부근</item>
+        <item>538. 답십리역 8번출구 앞</item>
+        <item>539. 군자교교차로</item>
+        <item>540. 군자역 7번출구 베스트샵 앞</item>
+        <item>542. 강변역 1,4번 출구 아래</item>
+        <item>543. 구의공원(테크노마트 앞)</item>
+        <item>544. 광남중학교</item>
+        <item>546. 잠실대교북단 교차로</item>
+        <item>548. 자양나들목</item>
+        <item>549. 아차산역 3번출구</item>
+        <item>550. 서울시설공단 앞</item>
+        <item>551. 구의삼성쉐르빌 앞</item>
+        <item>552. 대림아크로리버 앞</item>
+        <item>553. 중곡 성원APT 앞</item>
+        <item>554. 아차산역 사거리</item>
+        <item>555. 구의3동주민센터</item>
+        <item>556. 달맞이공원</item>
+        <item>557. 도선동 주민센터 앞</item>
+        <item>558. 성동광진 교육지원청 앞</item>
+        <item>560. 비전교회 앞</item>
+        <item>561. 서울숲역 2번출구 앞</item>
+        <item>562. 군자지하보도 앞</item>
+        <item>563. 성동세무서 건너편</item>
+        <item>564. 금호역 3번출구</item>
+        <item>565. 옥수역 3번출구</item>
+        <item>567. 성수역 2번출구 앞</item>
+        <item>568. 청계8가사거리 부근</item>
+        <item>569. 응봉동현대아파트 정류소</item>
+        <item>571. 어린이대공원역6번출구</item>
+        <item>572. 국립정신 건강센터 앞</item>
+        <item>573. 구의문주차장 앞</item>
+        <item>574. 아차산역4번출구</item>
+        <item>575. 중앙농협 중곡지점</item>
+        <item>576. 광나루역 3번 출구</item>
+        <item>577. 광진청소년수련관</item>
+        <item>578. 성동세무서 부근</item>
+        <item>579. 마장역 4번출구</item>
+        <item>580. 신금호역 3번출구 뒤</item>
+        <item>581. 용답초등학교</item>
+        <item>582. 경일중학교 앞</item>
+        <item>583. 청계천 생태교실 앞</item>
+        <item>584. 광진광장 교통섬</item>
+        <item>585. 성수2가1동 공영주차장 인근</item>
+        <item>586. 마장동 주민센터</item>
+        <item>600. 휘경2동 주민센터</item>
+        <item>601. 용신동주민센터</item>
+        <item>602. 장안동 사거리</item>
+        <item>604. 답십리초등학교 옆 공원</item>
+        <item>605. 신설동역8번출구</item>
+        <item>606. 휘경공고앞</item>
+        <item>607. 신이문역 2번출구</item>
+        <item>608. 전농삼성아파트</item>
+        <item>609. 제기2교</item>
+        <item>610. 동대문중 교차로</item>
+        <item>612. 시립동부병원 앞 사거리</item>
+        <item>613. 신설동역 10번출구 앞</item>
+        <item>614. 용두동 사거리</item>
+        <item>615. 용두동 레미안허브리츠아파트 앞</item>
+        <item>616. 서울시립대 앞</item>
+        <item>617. 청솔우성아파트 앞</item>
+        <item>621. 동대문중학교 옆</item>
+        <item>622. 전농사거리 교통섬</item>
+        <item>623. 서울시립대 정문 앞</item>
+        <item>624. 전농동 동아아파트 앞</item>
+        <item>625. 답십리초등학교 앞(현대시장 옆)</item>
+        <item>626. 군자교녹지대 동측 앞</item>
+        <item>627. 장안동삼거리 교통섬</item>
+        <item>628. 휘봉고등학교 앞</item>
+        <item>630. 동대문구 보건소</item>
+        <item>631. 답십리역 1번출구</item>
+        <item>633. 청량리 기업은행 앞</item>
+        <item>634. 외국어대 정문 앞</item>
+        <item>635. 시조사 앞 (청량고정문 옆)</item>
+        <item>636. 세종대왕기념관 교차로</item>
+        <item>637. KAIST 경영대학 앞</item>
+        <item>638. 서울시립대 정보기술관</item>
+        <item>639. 서울시립대 후문</item>
+        <item>640. KEB하나은행 청량리역지점</item>
+        <item>641. 용두역 4번출구</item>
+        <item>642. 신답역 빵굼터 앞</item>
+        <item>643. 동대문구민체육센터 (육교아래)</item>
+        <item>700. KB국민은행 염창역 지점 앞</item>
+        <item>701. 목동사거리 부근</item>
+        <item>702. 목4동주민센터 옆</item>
+        <item>703. 오목교역 7번출구 앞</item>
+        <item>704. 남부법원검찰청 교차로</item>
+        <item>706. 신정네거리역</item>
+        <item>707. 신정3동주민센터</item>
+        <item>708. 서울출입국관리사무소 앞</item>
+        <item>709. 신정3동 현장민원실 앞</item>
+        <item>710. 서부화물트럭터미널 사거리</item>
+        <item>711. 신일해피트리아파트 앞</item>
+        <item>712. 강월초교입구 사거리</item>
+        <item>713. 양서중학교 옆</item>
+        <item>714. 한국SGI 양천문화회관 앞</item>
+        <item>716. 햇빛문고 앞</item>
+        <item>719. 홍익병원앞 교차로</item>
+        <item>720. 서울강월초등학교 앞</item>
+        <item>800. 목월공원 앞</item>
+        <item>802. 한강진역 2번 출구 앞</item>
+        <item>803. 한남초교 앞 보도육교</item>
+        <item>805. 문배어린이공원 앞</item>
+        <item>806. 전자랜드 본관 앞</item>
+        <item>807. 서울역 12번 출구 앞</item>
+        <item>808. 서빙고동 금호맨션 앞</item>
+        <item>809. 한남 유수지 복개주차장</item>
+        <item>810. 이태원지하보도</item>
+        <item>811. 녹사평역1번출구</item>
+        <item>812. 용산전쟁기념관</item>
+        <item>813. 삼각지역 3번출구</item>
+        <item>815. LIG강촌아파트 103동앞</item>
+        <item>816. 신용산역 6번출구 앞</item>
+        <item>817. 삼각지역 4번출구 앞</item>
+        <item>818. 숙명여대 입구 교차로</item>
+        <item>819. 선린인터넷 고등학교</item>
+        <item>820. 청파동입구 교차로</item>
+        <item>822. 이촌1동 마을공원</item>
+        <item>823. 효창동주민센터 앞</item>
+        <item>825. 서빙고동 주민센터 앞</item>
+        <item>900. 은평예술회관</item>
+        <item>901. 응암1동사무소</item>
+        <item>902. 진관동 은빛초등학교</item>
+        <item>903. 은평뉴타운 아이파크</item>
+        <item>904. 은평뉴타운 푸르지오</item>
+        <item>906. 연신내역 5번출구</item>
+        <item>907. CJ 드림시티</item>
+        <item>911. 은평평화공원(역촌역4번출구)</item>
+        <item>912. 응암오거리</item>
+        <item>913. 이마트 은평점</item>
+        <item>914. 새절역 2번출구</item>
+        <item>916. 평생학습관 앞</item>
+        <item>917. 녹번역 4번출구</item>
+        <item>921. 신도고등학교</item>
+        <item>923. 국민은행 연서지점</item>
+        <item>924. 메뚜기다리</item>
+        <item>925. 불광역 2번출구</item>
+        <item>926. 불광역 8번출구</item>
+        <item>927. 연신내역 3번출구 인근</item>
+        <item>928. 은평역사한옥박물관</item>
+    </string-array>
+    <string-array name="station_no">
+        <item>102</item>
+        <item>103</item>
+        <item>104</item>
+        <item>105</item>
+        <item>106</item>
+        <item>107</item>
+        <item>108</item>
+        <item>109</item>
+        <item>111</item>
+        <item>112</item>
+        <item>113</item>
+        <item>114</item>
+        <item>115</item>
+        <item>116</item>
+        <item>118</item>
+        <item>119</item>
+        <item>120</item>
+        <item>121</item>
+        <item>122</item>
+        <item>124</item>
+        <item>125</item>
+        <item>126</item>
+        <item>127</item>
+        <item>128</item>
+        <item>129</item>
+        <item>130</item>
+        <item>132</item>
+        <item>134</item>
+        <item>135</item>
+        <item>136</item>
+        <item>137</item>
+        <item>138</item>
+        <item>139</item>
+        <item>140</item>
+        <item>141</item>
+        <item>142</item>
+        <item>143</item>
+        <item>144</item>
+        <item>145</item>
+        <item>146</item>
+        <item>147</item>
+        <item>148</item>
+        <item>150</item>
+        <item>151</item>
+        <item>152</item>
+        <item>153</item>
+        <item>154</item>
+        <item>155</item>
+        <item>156</item>
+        <item>157</item>
+        <item>158</item>
+        <item>159</item>
+        <item>160</item>
+        <item>161</item>
+        <item>162</item>
+        <item>163</item>
+        <item>164</item>
+        <item>165</item>
+        <item>166</item>
+        <item>167</item>
+        <item>168</item>
+        <item>169</item>
+        <item>170</item>
+        <item>171</item>
+        <item>172</item>
+        <item>173</item>
+        <item>175</item>
+        <item>177</item>
+        <item>178</item>
+        <item>179</item>
+        <item>180</item>
+        <item>181</item>
+        <item>182</item>
+        <item>183</item>
+        <item>184</item>
+        <item>185</item>
+        <item>186</item>
+        <item>188</item>
+        <item>191</item>
+        <item>192</item>
+        <item>194</item>
+        <item>195</item>
+        <item>196</item>
+        <item>198</item>
+        <item>199</item>
+        <item>200</item>
+        <item>201</item>
+        <item>202</item>
+        <item>203</item>
+        <item>204</item>
+        <item>205</item>
+        <item>206</item>
+        <item>207</item>
+        <item>209</item>
+        <item>210</item>
+        <item>211</item>
+        <item>212</item>
+        <item>213</item>
+        <item>214</item>
+        <item>215</item>
+        <item>216</item>
+        <item>217</item>
+        <item>218</item>
+        <item>219</item>
+        <item>220</item>
+        <item>221</item>
+        <item>222</item>
+        <item>223</item>
+        <item>224</item>
+        <item>225</item>
+        <item>226</item>
+        <item>227</item>
+        <item>228</item>
+        <item>229</item>
+        <item>230</item>
+        <item>231</item>
+        <item>232</item>
+        <item>233</item>
+        <item>234</item>
+        <item>235</item>
+        <item>236</item>
+        <item>237</item>
+        <item>238</item>
+        <item>239</item>
+        <item>240</item>
+        <item>241</item>
+        <item>242</item>
+        <item>243</item>
+        <item>244</item>
+        <item>245</item>
+        <item>247</item>
+        <item>248</item>
+        <item>249</item>
+        <item>250</item>
+        <item>251</item>
+        <item>252</item>
+        <item>253</item>
+        <item>254</item>
+        <item>255</item>
+        <item>256</item>
+        <item>257</item>
+        <item>258</item>
+        <item>259</item>
+        <item>260</item>
+        <item>262</item>
+        <item>263</item>
+        <item>264</item>
+        <item>265</item>
+        <item>266</item>
+        <item>267</item>
+        <item>268</item>
+        <item>271</item>
+        <item>272</item>
+        <item>300</item>
+        <item>301</item>
+        <item>302</item>
+        <item>303</item>
+        <item>304</item>
+        <item>305</item>
+        <item>306</item>
+        <item>307</item>
+        <item>308</item>
+        <item>309</item>
+        <item>310</item>
+        <item>311</item>
+        <item>312</item>
+        <item>313</item>
+        <item>314</item>
+        <item>315</item>
+        <item>316</item>
+        <item>318</item>
+        <item>320</item>
+        <item>321</item>
+        <item>322</item>
+        <item>324</item>
+        <item>326</item>
+        <item>327</item>
+        <item>328</item>
+        <item>329</item>
+        <item>330</item>
+        <item>331</item>
+        <item>332</item>
+        <item>334</item>
+        <item>335</item>
+        <item>336</item>
+        <item>337</item>
+        <item>338</item>
+        <item>339</item>
+        <item>340</item>
+        <item>341</item>
+        <item>342</item>
+        <item>343</item>
+        <item>344</item>
+        <item>345</item>
+        <item>346</item>
+        <item>347</item>
+        <item>348</item>
+        <item>349</item>
+        <item>350</item>
+        <item>351</item>
+        <item>352</item>
+        <item>353</item>
+        <item>354</item>
+        <item>355</item>
+        <item>356</item>
+        <item>358</item>
+        <item>359</item>
+        <item>361</item>
+        <item>362</item>
+        <item>363</item>
+        <item>364</item>
+        <item>367</item>
+        <item>368</item>
+        <item>369</item>
+        <item>370</item>
+        <item>371</item>
+        <item>372</item>
+        <item>373</item>
+        <item>374</item>
+        <item>375</item>
+        <item>377</item>
+        <item>378</item>
+        <item>379</item>
+        <item>380</item>
+        <item>381</item>
+        <item>382</item>
+        <item>383</item>
+        <item>384</item>
+        <item>385</item>
+        <item>386</item>
+        <item>387</item>
+        <item>388</item>
+        <item>400</item>
+        <item>401</item>
+        <item>402</item>
+        <item>403</item>
+        <item>405</item>
+        <item>406</item>
+        <item>407</item>
+        <item>408</item>
+        <item>409</item>
+        <item>410</item>
+        <item>411</item>
+        <item>412</item>
+        <item>413</item>
+        <item>414</item>
+        <item>415</item>
+        <item>416</item>
+        <item>417</item>
+        <item>418</item>
+        <item>419</item>
+        <item>420</item>
+        <item>421</item>
+        <item>500</item>
+        <item>501</item>
+        <item>502</item>
+        <item>503</item>
+        <item>504</item>
+        <item>505</item>
+        <item>506</item>
+        <item>507</item>
+        <item>508</item>
+        <item>509</item>
+        <item>510</item>
+        <item>511</item>
+        <item>512</item>
+        <item>513</item>
+        <item>514</item>
+        <item>515</item>
+        <item>516</item>
+        <item>518</item>
+        <item>519</item>
+        <item>520</item>
+        <item>521</item>
+        <item>522</item>
+        <item>523</item>
+        <item>524</item>
+        <item>525</item>
+        <item>526</item>
+        <item>529</item>
+        <item>530</item>
+        <item>533</item>
+        <item>534</item>
+        <item>535</item>
+        <item>536</item>
+        <item>537</item>
+        <item>538</item>
+        <item>539</item>
+        <item>540</item>
+        <item>542</item>
+        <item>543</item>
+        <item>544</item>
+        <item>546</item>
+        <item>548</item>
+        <item>549</item>
+        <item>550</item>
+        <item>551</item>
+        <item>552</item>
+        <item>553</item>
+        <item>554</item>
+        <item>555</item>
+        <item>556</item>
+        <item>557</item>
+        <item>558</item>
+        <item>560</item>
+        <item>561</item>
+        <item>562</item>
+        <item>563</item>
+        <item>564</item>
+        <item>565</item>
+        <item>567</item>
+        <item>568</item>
+        <item>569</item>
+        <item>571</item>
+        <item>572</item>
+        <item>573</item>
+        <item>574</item>
+        <item>575</item>
+        <item>576</item>
+        <item>577</item>
+        <item>578</item>
+        <item>579</item>
+        <item>580</item>
+        <item>581</item>
+        <item>582</item>
+        <item>583</item>
+        <item>584</item>
+        <item>585</item>
+        <item>586</item>
+        <item>600</item>
+        <item>601</item>
+        <item>602</item>
+        <item>604</item>
+        <item>605</item>
+        <item>606</item>
+        <item>607</item>
+        <item>608</item>
+        <item>609</item>
+        <item>610</item>
+        <item>612</item>
+        <item>613</item>
+        <item>614</item>
+        <item>615</item>
+        <item>616</item>
+        <item>617</item>
+        <item>621</item>
+        <item>622</item>
+        <item>623</item>
+        <item>624</item>
+        <item>625</item>
+        <item>626</item>
+        <item>627</item>
+        <item>628</item>
+        <item>630</item>
+        <item>631</item>
+        <item>633</item>
+        <item>634</item>
+        <item>635</item>
+        <item>636</item>
+        <item>637</item>
+        <item>638</item>
+        <item>639</item>
+        <item>640</item>
+        <item>641</item>
+        <item>642</item>
+        <item>643</item>
+        <item>700</item>
+        <item>701</item>
+        <item>702</item>
+        <item>703</item>
+        <item>704</item>
+        <item>706</item>
+        <item>707</item>
+        <item>708</item>
+        <item>709</item>
+        <item>710</item>
+        <item>711</item>
+        <item>712</item>
+        <item>713</item>
+        <item>714</item>
+        <item>716</item>
+        <item>719</item>
+        <item>720</item>
+        <item>800</item>
+        <item>802</item>
+        <item>803</item>
+        <item>805</item>
+        <item>806</item>
+        <item>807</item>
+        <item>808</item>
+        <item>809</item>
+        <item>810</item>
+        <item>811</item>
+        <item>812</item>
+        <item>813</item>
+        <item>815</item>
+        <item>816</item>
+        <item>817</item>
+        <item>818</item>
+        <item>819</item>
+        <item>820</item>
+        <item>822</item>
+        <item>823</item>
+        <item>825</item>
+        <item>900</item>
+        <item>901</item>
+        <item>902</item>
+        <item>903</item>
+        <item>904</item>
+        <item>906</item>
+        <item>907</item>
+        <item>911</item>
+        <item>912</item>
+        <item>913</item>
+        <item>914</item>
+        <item>916</item>
+        <item>917</item>
+        <item>921</item>
+        <item>923</item>
+        <item>924</item>
+        <item>925</item>
+        <item>926</item>
+        <item>927</item>
+        <item>928</item>
+    </string-array>
+    <string-array name="station_x">
+        <item>126.910454</item>
+        <item>126.910835</item>
+        <item>126.914986</item>
+        <item>126.914825</item>
+        <item>126.912827</item>
+        <item>126.918503</item>
+        <item>126.918617</item>
+        <item>126.919983</item>
+        <item>126.923531</item>
+        <item>126.923203</item>
+        <item>126.923805</item>
+        <item>126.924423</item>
+        <item>126.927116</item>
+        <item>126.927071</item>
+        <item>126.931763</item>
+        <item>126.931053</item>
+        <item>126.934113</item>
+        <item>126.933174</item>
+        <item>126.939293</item>
+        <item>126.936989</item>
+        <item>126.93895</item>
+        <item>126.943848</item>
+        <item>126.936951</item>
+        <item>126.93634</item>
+        <item>126.937569</item>
+        <item>126.936157</item>
+        <item>126.935883</item>
+        <item>126.93808</item>
+        <item>126.939178</item>
+        <item>126.942451</item>
+        <item>126.943184</item>
+        <item>126.934525</item>
+        <item>126.934479</item>
+        <item>126.940735</item>
+        <item>126.932648</item>
+        <item>126.955666</item>
+        <item>126.950218</item>
+        <item>126.951324</item>
+        <item>126.951637</item>
+        <item>126.945824</item>
+        <item>126.945915</item>
+        <item>126.943024</item>
+        <item>126.934341</item>
+        <item>126.905548</item>
+        <item>126.898018</item>
+        <item>126.912613</item>
+        <item>126.905495</item>
+        <item>126.914513</item>
+        <item>126.955147</item>
+        <item>126.956688</item>
+        <item>126.96048</item>
+        <item>126.946342</item>
+        <item>126.959381</item>
+        <item>126.950645</item>
+        <item>126.946243</item>
+        <item>126.924965</item>
+        <item>126.910049</item>
+        <item>126.91394</item>
+        <item>126.919678</item>
+        <item>126.91713</item>
+        <item>126.918053</item>
+        <item>126.906845</item>
+        <item>126.922806</item>
+        <item>126.969254</item>
+        <item>126.935722</item>
+        <item>126.966148</item>
+        <item>126.930817</item>
+        <item>126.909805</item>
+        <item>126.906349</item>
+        <item>126.914795</item>
+        <item>126.962463</item>
+        <item>126.902672</item>
+        <item>126.902847</item>
+        <item>126.919395</item>
+        <item>126.907753</item>
+        <item>126.934296</item>
+        <item>126.898209</item>
+        <item>126.935127</item>
+        <item>126.910736</item>
+        <item>126.923065</item>
+        <item>126.902969</item>
+        <item>126.917809</item>
+        <item>126.925896</item>
+        <item>126.963776</item>
+        <item>126.896446</item>
+        <item>126.914925</item>
+        <item>126.921333</item>
+        <item>126.92453</item>
+        <item>126.918701</item>
+        <item>126.917023</item>
+        <item>126.920509</item>
+        <item>126.918022</item>
+        <item>126.932098</item>
+        <item>126.927834</item>
+        <item>126.924187</item>
+        <item>126.924637</item>
+        <item>126.923462</item>
+        <item>126.918953</item>
+        <item>126.920837</item>
+        <item>126.934906</item>
+        <item>126.932899</item>
+        <item>126.930367</item>
+        <item>126.929237</item>
+        <item>126.92662</item>
+        <item>126.926048</item>
+        <item>126.93779</item>
+        <item>126.938881</item>
+        <item>126.933167</item>
+        <item>126.932365</item>
+        <item>126.929253</item>
+        <item>126.928413</item>
+        <item>126.888359</item>
+        <item>126.894508</item>
+        <item>126.892181</item>
+        <item>126.896217</item>
+        <item>126.892097</item>
+        <item>126.887817</item>
+        <item>126.891647</item>
+        <item>126.905846</item>
+        <item>126.910233</item>
+        <item>126.894615</item>
+        <item>126.914986</item>
+        <item>126.902756</item>
+        <item>126.903282</item>
+        <item>126.895706</item>
+        <item>126.898483</item>
+        <item>126.910225</item>
+        <item>126.891594</item>
+        <item>126.905708</item>
+        <item>126.896629</item>
+        <item>126.902107</item>
+        <item>126.924294</item>
+        <item>126.935791</item>
+        <item>126.92308</item>
+        <item>126.921951</item>
+        <item>126.920036</item>
+        <item>126.909378</item>
+        <item>126.903419</item>
+        <item>126.901131</item>
+        <item>126.8993</item>
+        <item>126.919357</item>
+        <item>126.914299</item>
+        <item>126.925934</item>
+        <item>126.91214</item>
+        <item>126.889183</item>
+        <item>126.888626</item>
+        <item>126.891617</item>
+        <item>126.896538</item>
+        <item>126.901093</item>
+        <item>126.8983</item>
+        <item>126.899536</item>
+        <item>126.921616</item>
+        <item>126.903679</item>
+        <item>126.969231</item>
+        <item>126.971451</item>
+        <item>126.97406</item>
+        <item>126.974922</item>
+        <item>126.977501</item>
+        <item>126.978355</item>
+        <item>126.976433</item>
+        <item>126.9711</item>
+        <item>126.973938</item>
+        <item>126.976456</item>
+        <item>126.97747</item>
+        <item>126.97747</item>
+        <item>126.976738</item>
+        <item>126.971771</item>
+        <item>126.980858</item>
+        <item>126.983063</item>
+        <item>126.981789</item>
+        <item>126.982552</item>
+        <item>126.983589</item>
+        <item>126.984138</item>
+        <item>126.986969</item>
+        <item>126.981262</item>
+        <item>126.98616</item>
+        <item>126.987465</item>
+        <item>126.98819</item>
+        <item>126.987892</item>
+        <item>126.984497</item>
+        <item>126.987206</item>
+        <item>126.987793</item>
+        <item>126.991791</item>
+        <item>126.991257</item>
+        <item>126.992836</item>
+        <item>126.996475</item>
+        <item>126.997528</item>
+        <item>126.998192</item>
+        <item>127.000679</item>
+        <item>127.001785</item>
+        <item>127.002533</item>
+        <item>127.004982</item>
+        <item>127.006721</item>
+        <item>127.00071</item>
+        <item>127.00988</item>
+        <item>127.007843</item>
+        <item>126.96125</item>
+        <item>126.96859</item>
+        <item>126.973206</item>
+        <item>126.970619</item>
+        <item>126.985329</item>
+        <item>126.984947</item>
+        <item>126.98896</item>
+        <item>127.002457</item>
+        <item>127.001549</item>
+        <item>126.998535</item>
+        <item>126.997681</item>
+        <item>127.015907</item>
+        <item>127.022705</item>
+        <item>127.022835</item>
+        <item>127.014793</item>
+        <item>126.958694</item>
+        <item>126.980255</item>
+        <item>126.9785</item>
+        <item>126.974838</item>
+        <item>127.005539</item>
+        <item>127.0112</item>
+        <item>127.013855</item>
+        <item>127.014076</item>
+        <item>127.018425</item>
+        <item>126.973488</item>
+        <item>127.016953</item>
+        <item>126.973358</item>
+        <item>127.002747</item>
+        <item>127.006989</item>
+        <item>127.010048</item>
+        <item>127.016762</item>
+        <item>126.968506</item>
+        <item>126.982658</item>
+        <item>126.99852</item>
+        <item>127.003525</item>
+        <item>127.00161</item>
+        <item>126.883003</item>
+        <item>126.881615</item>
+        <item>126.879822</item>
+        <item>126.884727</item>
+        <item>126.885788</item>
+        <item>126.880585</item>
+        <item>126.883675</item>
+        <item>126.88665</item>
+        <item>126.88916</item>
+        <item>126.887772</item>
+        <item>126.891472</item>
+        <item>126.890739</item>
+        <item>126.889687</item>
+        <item>126.89447</item>
+        <item>126.897362</item>
+        <item>126.894447</item>
+        <item>126.899918</item>
+        <item>126.898979</item>
+        <item>126.899429</item>
+        <item>126.896179</item>
+        <item>126.901184</item>
+        <item>127.074272</item>
+        <item>127.070351</item>
+        <item>127.067192</item>
+        <item>127.073593</item>
+        <item>127.075935</item>
+        <item>127.082291</item>
+        <item>127.057793</item>
+        <item>127.057114</item>
+        <item>127.05751</item>
+        <item>127.052589</item>
+        <item>127.0438</item>
+        <item>127.044609</item>
+        <item>127.045006</item>
+        <item>127.049805</item>
+        <item>127.063309</item>
+        <item>127.08683</item>
+        <item>127.069366</item>
+        <item>127.035355</item>
+        <item>127.029915</item>
+        <item>127.030319</item>
+        <item>127.03492</item>
+        <item>127.016426</item>
+        <item>127.014061</item>
+        <item>127.025055</item>
+        <item>127.040352</item>
+        <item>127.056725</item>
+        <item>127.06366</item>
+        <item>127.030403</item>
+        <item>127.021088</item>
+        <item>127.025726</item>
+        <item>127.033592</item>
+        <item>127.029213</item>
+        <item>127.041397</item>
+        <item>127.051155</item>
+        <item>127.074203</item>
+        <item>127.078644</item>
+        <item>127.094604</item>
+        <item>127.094673</item>
+        <item>127.102905</item>
+        <item>127.085091</item>
+        <item>127.07486</item>
+        <item>127.089706</item>
+        <item>127.03566</item>
+        <item>127.094498</item>
+        <item>127.092972</item>
+        <item>127.079803</item>
+        <item>127.09259</item>
+        <item>127.092171</item>
+        <item>127.020401</item>
+        <item>127.025696</item>
+        <item>127.036522</item>
+        <item>127.068932</item>
+        <item>127.04467</item>
+        <item>127.07341</item>
+        <item>127.062752</item>
+        <item>127.015572</item>
+        <item>127.017662</item>
+        <item>127.057083</item>
+        <item>127.02356</item>
+        <item>127.030243</item>
+        <item>127.07476</item>
+        <item>127.0867</item>
+        <item>127.084732</item>
+        <item>127.088982</item>
+        <item>127.086937</item>
+        <item>127.104263</item>
+        <item>127.106133</item>
+        <item>127.062088</item>
+        <item>127.041847</item>
+        <item>127.020149</item>
+        <item>127.054237</item>
+        <item>127.04908</item>
+        <item>127.045296</item>
+        <item>127.072632</item>
+        <item>127.055489</item>
+        <item>127.045395</item>
+        <item>127.06868</item>
+        <item>127.037361</item>
+        <item>127.071388</item>
+        <item>127.055962</item>
+        <item>127.026497</item>
+        <item>127.07029</item>
+        <item>127.067863</item>
+        <item>127.055344</item>
+        <item>127.037361</item>
+        <item>127.052162</item>
+        <item>127.030472</item>
+        <item>127.023468</item>
+        <item>127.031013</item>
+        <item>127.03511</item>
+        <item>127.054367</item>
+        <item>127.057693</item>
+        <item>127.053391</item>
+        <item>127.057831</item>
+        <item>127.053856</item>
+        <item>127.045891</item>
+        <item>127.057175</item>
+        <item>127.070969</item>
+        <item>127.071907</item>
+        <item>127.067543</item>
+        <item>127.040306</item>
+        <item>127.051277</item>
+        <item>127.044823</item>
+        <item>127.05983</item>
+        <item>127.052773</item>
+        <item>127.042587</item>
+        <item>127.045792</item>
+        <item>127.060974</item>
+        <item>127.060951</item>
+        <item>127.044495</item>
+        <item>127.038261</item>
+        <item>127.048584</item>
+        <item>127.074417</item>
+        <item>126.872772</item>
+        <item>126.86393</item>
+        <item>126.868729</item>
+        <item>126.87558</item>
+        <item>126.864906</item>
+        <item>126.851753</item>
+        <item>126.854897</item>
+        <item>126.869965</item>
+        <item>126.84156</item>
+        <item>126.842537</item>
+        <item>126.848488</item>
+        <item>126.838318</item>
+        <item>126.829956</item>
+        <item>126.830803</item>
+        <item>126.864334</item>
+        <item>126.864258</item>
+        <item>126.8349</item>
+        <item>126.954742</item>
+        <item>127.002213</item>
+        <item>127.004097</item>
+        <item>126.970001</item>
+        <item>126.960732</item>
+        <item>126.972687</item>
+        <item>126.989738</item>
+        <item>127.007439</item>
+        <item>126.986649</item>
+        <item>126.985382</item>
+        <item>126.977661</item>
+        <item>126.972275</item>
+        <item>126.978798</item>
+        <item>126.968483</item>
+        <item>126.971733</item>
+        <item>126.969383</item>
+        <item>126.970505</item>
+        <item>126.971947</item>
+        <item>126.965523</item>
+        <item>126.96196</item>
+        <item>126.994263</item>
+        <item>126.927696</item>
+        <item>126.926956</item>
+        <item>126.918625</item>
+        <item>126.927391</item>
+        <item>126.930702</item>
+        <item>126.919579</item>
+        <item>126.916862</item>
+        <item>126.922935</item>
+        <item>126.916946</item>
+        <item>126.920128</item>
+        <item>126.913651</item>
+        <item>126.921326</item>
+        <item>126.935349</item>
+        <item>126.919029</item>
+        <item>126.925636</item>
+        <item>126.929581</item>
+        <item>126.930977</item>
+        <item>126.929665</item>
+        <item>126.922523</item>
+        <item>126.938042</item>
+
+    </string-array>
+    <string-array name="station_y">
+        <item>37.556</item>
+        <item>37.554951</item>
+        <item>37.550629</item>
+        <item>37.550007</item>
+        <item>37.548645</item>
+        <item>37.55751</item>
+        <item>37.552746</item>
+        <item>37.547691</item>
+        <item>37.547871</item>
+        <item>37.549202</item>
+        <item>37.557499</item>
+        <item>37.55706</item>
+        <item>37.558933</item>
+        <item>37.564541</item>
+        <item>37.547733</item>
+        <item>37.545284</item>
+        <item>37.545242</item>
+        <item>37.549767</item>
+        <item>37.547249</item>
+        <item>37.55114</item>
+        <item>37.549484</item>
+        <item>37.550411</item>
+        <item>37.55352</item>
+        <item>37.555496</item>
+        <item>37.555054</item>
+        <item>37.554859</item>
+        <item>37.556789</item>
+        <item>37.557892</item>
+        <item>37.559101</item>
+        <item>37.555691</item>
+        <item>37.556812</item>
+        <item>37.559177</item>
+        <item>37.559795</item>
+        <item>37.560009</item>
+        <item>37.562382</item>
+        <item>37.557201</item>
+        <item>37.544579</item>
+        <item>37.543579</item>
+        <item>37.54425</item>
+        <item>37.539936</item>
+        <item>37.539272</item>
+        <item>37.542347</item>
+        <item>37.552956</item>
+        <item>37.555687</item>
+        <item>37.55661</item>
+        <item>37.564697</item>
+        <item>37.560909</item>
+        <item>37.56855</item>
+        <item>37.549904</item>
+        <item>37.553001</item>
+        <item>37.571259</item>
+        <item>37.556953</item>
+        <item>37.557549</item>
+        <item>37.582245</item>
+        <item>37.565269</item>
+        <item>37.583698</item>
+        <item>37.574478</item>
+        <item>37.575138</item>
+        <item>37.573277</item>
+        <item>37.57946</item>
+        <item>37.574821</item>
+        <item>37.57383</item>
+        <item>37.573032</item>
+        <item>37.562134</item>
+        <item>37.573254</item>
+        <item>37.564777</item>
+        <item>37.578072</item>
+        <item>37.577675</item>
+        <item>37.579876</item>
+        <item>37.569122</item>
+        <item>37.559967</item>
+        <item>37.551342</item>
+        <item>37.551567</item>
+        <item>37.565166</item>
+        <item>37.558949</item>
+        <item>37.542545</item>
+        <item>37.563965</item>
+        <item>37.586388</item>
+        <item>37.578892</item>
+        <item>37.572227</item>
+        <item>37.577316</item>
+        <item>37.567657</item>
+        <item>37.56612</item>
+        <item>37.562138</item>
+        <item>37.566845</item>
+        <item>37.528728</item>
+        <item>37.531239</item>
+        <item>37.528816</item>
+        <item>37.528057</item>
+        <item>37.528164</item>
+        <item>37.526264</item>
+        <item>37.524666</item>
+        <item>37.526989</item>
+        <item>37.524612</item>
+        <item>37.525093</item>
+        <item>37.522228</item>
+        <item>37.521362</item>
+        <item>37.521908</item>
+        <item>37.523022</item>
+        <item>37.524837</item>
+        <item>37.523491</item>
+        <item>37.522079</item>
+        <item>37.523277</item>
+        <item>37.520428</item>
+        <item>37.519363</item>
+        <item>37.522675</item>
+        <item>37.520271</item>
+        <item>37.519314</item>
+        <item>37.520088</item>
+        <item>37.517368</item>
+        <item>37.517765</item>
+        <item>37.544666</item>
+        <item>37.53846</item>
+        <item>37.535873</item>
+        <item>37.524635</item>
+        <item>37.524372</item>
+        <item>37.52565</item>
+        <item>37.528488</item>
+        <item>37.500462</item>
+        <item>37.504566</item>
+        <item>37.516155</item>
+        <item>37.496872</item>
+        <item>37.526386</item>
+        <item>37.525852</item>
+        <item>37.518867</item>
+        <item>37.505329</item>
+        <item>37.510933</item>
+        <item>37.527225</item>
+        <item>37.530079</item>
+        <item>37.528263</item>
+        <item>37.533688</item>
+        <item>37.531528</item>
+        <item>37.524475</item>
+        <item>37.507641</item>
+        <item>37.504494</item>
+        <item>37.499977</item>
+        <item>37.500702</item>
+        <item>37.503803</item>
+        <item>37.506573</item>
+        <item>37.509476</item>
+        <item>37.513844</item>
+        <item>37.517693</item>
+        <item>37.513592</item>
+        <item>37.533772</item>
+        <item>37.519928</item>
+        <item>37.517151</item>
+        <item>37.521931</item>
+        <item>37.521133</item>
+        <item>37.520447</item>
+        <item>37.535961</item>
+        <item>37.534904</item>
+        <item>37.518963</item>
+        <item>37.535339</item>
+        <item>37.56805</item>
+        <item>37.575794</item>
+        <item>37.575947</item>
+        <item>37.571732</item>
+        <item>37.572487</item>
+        <item>37.572582</item>
+        <item>37.570808</item>
+        <item>37.57</item>
+        <item>37.569969</item>
+        <item>37.569889</item>
+        <item>37.568878</item>
+        <item>37.566612</item>
+        <item>37.564674</item>
+        <item>37.556961</item>
+        <item>37.579708</item>
+        <item>37.57597</item>
+        <item>37.570396</item>
+        <item>37.568527</item>
+        <item>37.566223</item>
+        <item>37.565464</item>
+        <item>37.564476</item>
+        <item>37.561295</item>
+        <item>37.576241</item>
+        <item>37.573357</item>
+        <item>37.570396</item>
+        <item>37.568344</item>
+        <item>37.56781</item>
+        <item>37.566383</item>
+        <item>37.56599</item>
+        <item>37.570599</item>
+        <item>37.570198</item>
+        <item>37.562618</item>
+        <item>37.578979</item>
+        <item>37.571331</item>
+        <item>37.571068</item>
+        <item>37.585629</item>
+        <item>37.58157</item>
+        <item>37.579784</item>
+        <item>37.575432</item>
+        <item>37.574036</item>
+        <item>37.573307</item>
+        <item>37.569183</item>
+        <item>37.565331</item>
+        <item>37.572025</item>
+        <item>37.576332</item>
+        <item>37.574268</item>
+        <item>37.585079</item>
+        <item>37.583179</item>
+        <item>37.579388</item>
+        <item>37.579155</item>
+        <item>37.576508</item>
+        <item>37.577152</item>
+        <item>37.5825</item>
+        <item>37.576061</item>
+        <item>37.573242</item>
+        <item>37.572224</item>
+        <item>37.57576</item>
+        <item>37.577957</item>
+        <item>37.573849</item>
+        <item>37.569637</item>
+        <item>37.575493</item>
+        <item>37.563229</item>
+        <item>37.558872</item>
+        <item>37.554295</item>
+        <item>37.555859</item>
+        <item>37.560474</item>
+        <item>37.563717</item>
+        <item>37.557812</item>
+        <item>37.569805</item>
+        <item>37.556</item>
+        <item>37.563866</item>
+        <item>37.558533</item>
+        <item>37.555199</item>
+        <item>37.565311</item>
+        <item>37.55978</item>
+        <item>37.569836</item>
+        <item>37.590233</item>
+        <item>37.567329</item>
+        <item>37.585735</item>
+        <item>37.587524</item>
+        <item>37.586189</item>
+        <item>37.582855</item>
+        <item>37.58559</item>
+        <item>37.582657</item>
+        <item>37.581314</item>
+        <item>37.580631</item>
+        <item>37.580811</item>
+        <item>37.579399</item>
+        <item>37.577496</item>
+        <item>37.577995</item>
+        <item>37.575802</item>
+        <item>37.571476</item>
+        <item>37.57822</item>
+        <item>37.577469</item>
+        <item>37.575665</item>
+        <item>37.575069</item>
+        <item>37.570721</item>
+        <item>37.56842</item>
+        <item>37.566246</item>
+        <item>37.565903</item>
+        <item>37.54707</item>
+        <item>37.537308</item>
+        <item>37.53186</item>
+        <item>37.536667</item>
+        <item>37.53297</item>
+        <item>37.537514</item>
+        <item>37.549061</item>
+        <item>37.548203</item>
+        <item>37.545166</item>
+        <item>37.539654</item>
+        <item>37.541222</item>
+        <item>37.544582</item>
+        <item>37.548561</item>
+        <item>37.546307</item>
+        <item>37.54258</item>
+        <item>37.530235</item>
+        <item>37.548405</item>
+        <item>37.571526</item>
+        <item>37.566994</item>
+        <item>37.563858</item>
+        <item>37.561447</item>
+        <item>37.548641</item>
+        <item>37.543663</item>
+        <item>37.5522</item>
+        <item>37.558052</item>
+        <item>37.563511</item>
+        <item>37.561371</item>
+        <item>37.568748</item>
+        <item>37.548149</item>
+        <item>37.548634</item>
+        <item>37.553986</item>
+        <item>37.55735</item>
+        <item>37.560356</item>
+        <item>37.56765</item>
+        <item>37.559795</item>
+        <item>37.55603</item>
+        <item>37.534996</item>
+        <item>37.535969</item>
+        <item>37.54073</item>
+        <item>37.532478</item>
+        <item>37.52977</item>
+        <item>37.551224</item>
+        <item>37.57164</item>
+        <item>37.540062</item>
+        <item>37.536579</item>
+        <item>37.571255</item>
+        <item>37.548935</item>
+        <item>37.537849</item>
+        <item>37.542053</item>
+        <item>37.567642</item>
+        <item>37.564606</item>
+        <item>37.551205</item>
+        <item>37.542816</item>
+        <item>37.559246</item>
+        <item>37.547913</item>
+        <item>37.547928</item>
+        <item>37.541363</item>
+        <item>37.54459</item>
+        <item>37.571102</item>
+        <item>37.549583</item>
+        <item>37.548496</item>
+        <item>37.565536</item>
+        <item>37.545231</item>
+        <item>37.551849</item>
+        <item>37.564293</item>
+        <item>37.54483</item>
+        <item>37.546547</item>
+        <item>37.548286</item>
+        <item>37.565205</item>
+        <item>37.55439</item>
+        <item>37.561012</item>
+        <item>37.543179</item>
+        <item>37.56945</item>
+        <item>37.547829</item>
+        <item>37.536808</item>
+        <item>37.565941</item>
+        <item>37.589912</item>
+        <item>37.575947</item>
+        <item>37.572174</item>
+        <item>37.569656</item>
+        <item>37.5742</item>
+        <item>37.584625</item>
+        <item>37.602711</item>
+        <item>37.58131</item>
+        <item>37.587791</item>
+        <item>37.573086</item>
+        <item>37.573498</item>
+        <item>37.575272</item>
+        <item>37.577686</item>
+        <item>37.576382</item>
+        <item>37.582561</item>
+        <item>37.574203</item>
+        <item>37.574718</item>
+        <item>37.577793</item>
+        <item>37.583698</item>
+        <item>37.574188</item>
+        <item>37.568192</item>
+        <item>37.561153</item>
+        <item>37.578632</item>
+        <item>37.586815</item>
+        <item>37.574852</item>
+        <item>37.568184</item>
+        <item>37.580406</item>
+        <item>37.59602</item>
+        <item>37.587517</item>
+        <item>37.5909</item>
+        <item>37.591614</item>
+        <item>37.583008</item>
+        <item>37.585197</item>
+        <item>37.582455</item>
+        <item>37.574329</item>
+        <item>37.570156</item>
+        <item>37.566971</item>
+        <item>37.546848</item>
+        <item>37.532803</item>
+        <item>37.532543</item>
+        <item>37.524063</item>
+        <item>37.523254</item>
+        <item>37.521881</item>
+        <item>37.515156</item>
+        <item>37.51897</item>
+        <item>37.511585</item>
+        <item>37.510658</item>
+        <item>37.517059</item>
+        <item>37.516998</item>
+        <item>37.533047</item>
+        <item>37.532547</item>
+        <item>37.517281</item>
+        <item>37.530369</item>
+        <item>37.516197</item>
+        <item>37.532433</item>
+        <item>37.541153</item>
+        <item>37.538139</item>
+        <item>37.536758</item>
+        <item>37.533066</item>
+        <item>37.552277</item>
+        <item>37.520504</item>
+        <item>37.530167</item>
+        <item>37.53841</item>
+        <item>37.53508</item>
+        <item>37.53484</item>
+        <item>37.533512</item>
+        <item>37.518509</item>
+        <item>37.530148</item>
+        <item>37.533451</item>
+        <item>37.544895</item>
+        <item>37.541653</item>
+        <item>37.549026</item>
+        <item>37.522041</item>
+        <item>37.54232</item>
+        <item>37.520336</item>
+        <item>37.603943</item>
+        <item>37.600975</item>
+        <item>37.642933</item>
+        <item>37.645866</item>
+        <item>37.648674</item>
+        <item>37.61721</item>
+        <item>37.599491</item>
+        <item>37.605583</item>
+        <item>37.589661</item>
+        <item>37.6007</item>
+        <item>37.590797</item>
+        <item>37.607849</item>
+        <item>37.601299</item>
+        <item>37.630016</item>
+        <item>37.620949</item>
+        <item>37.628517</item>
+        <item>37.609566</item>
+        <item>37.611179</item>
+        <item>37.617855</item>
+        <item>37.641315</item>
+    </string-array>
+    <string-array name="station_address">
+        <item>서울특별시 마포구 월드컵로 72 475-54 </item>
+        <item>서울특별시 마포구 월드컵로 79 378-18 </item>
+        <item>서울특별시 마포구 양화로 59 393-7 </item>
+        <item>서울특별시 마포구 양화로 48 394-95 </item>
+        <item>서울특별시 마포구 독막로 4 381-1 </item>
+        <item>서울특별시 마포구 월드컵북로 35 449-28 </item>
+        <item>서울특별시 마포구 양화로 93 427 </item>
+        <item>서울특별시 마포구 어울마당로 26 12-2 </item>
+        <item>서울특별시 마포구 와우산로 40 309-10 </item>
+        <item>서울특별시 마포구 와우산로 56 89-2 </item>
+        <item>서울특별시 마포구 양화로 165 156-8 </item>
+        <item>서울특별시 마포구 양화로18길 3 192-5 </item>
+        <item>서울특별시 서대문구 연희로 6 516 </item>
+        <item>서울특별시 서대문구 동교로 290 일진아이윌아파트 옆 </item>
+        <item>서울특별시 마포구 독막로 지하165 243-3 </item>
+        <item>서울특별시 마포구 창전로 30 서강나루공원 </item>
+        <item>서울특별시 마포구 토정로 211 371-11 </item>
+        <item>서울특별시 마포구 창전로 76 100-18 </item>
+        <item>서울특별시 마포구 독막로 223-1 50-2 </item>
+        <item>서울특별시 마포구 서강로16길 72 84-5 </item>
+        <item>서울특별시 마포구 백범로 35 1-30 </item>
+        <item>서울특별시 마포구 대흥로 122 38-16 </item>
+        <item>서울특별시 마포구 백범로 10 31-213 </item>
+        <item>서울특별시 서대문구 연세로 3-5 30-16 </item>
+        <item>서울특별시 마포구 신촌로 106 31-123 </item>
+        <item>서울특별시 마포구 신촌로 94 31-123 </item>
+        <item>서울특별시 서대문구 연세로5나길 19 53-47 </item>
+        <item>서울특별시 서대문구 명물길 33 31-69 </item>
+        <item>서울특별시 서대문구 명물길 33 31-69 </item>
+        <item>서울특별시 마포구 신촌로26길 10 1-83 </item>
+        <item>서울특별시 서대문구 연세로2다길 58 60-11 </item>
+        <item>서울특별시 서대문구 증가로 264 342-14 </item>
+        <item>서울특별시 서대문구 연세로 42 76-25 </item>
+        <item>서울특별시 서대문구 연세로 50-1 89-4 </item>
+        <item>서울특별시 서대문구 연세로 50 27 </item>
+        <item>서울특별시 마포구 아현동 329-15 아현역 4번출구 앞 </item>
+        <item>서울특별시 마포구 공덕동 257-88 공덕역 2번출구 </item>
+        <item>서울특별시 마포구 공덕동 438-5 공덕역 8번출구 </item>
+        <item>서울특별시 마포구 공덕동 237-9 공덕역 5번출구 </item>
+        <item>서울특별시 마포구 도화동 555-2 마포역 1번출구 뒤 </item>
+        <item>서울특별시 마포구 도화동 292-29 마포역 4번출구 뒤 </item>
+        <item>서울특별시 마포구 용강동 234-1 용강동 주민센터 앞 </item>
+        <item>서울특별시 마포구 노고산동 112-13 서강대역 2번출구 앞 </item>
+        <item>서울특별시 마포구 망원동 403-2 망원1동주민센터 </item>
+        <item>서울특별시 마포구 망원동 452-4 마포구민체육센터 앞 </item>
+        <item>서울특별시 마포구 성산동 54-17 성산2교 사거리 </item>
+        <item>서울특별시 마포구 망원동 477-23 마포구청역 </item>
+        <item>서울특별시 마포구 성산동123-29 가좌역1.2번출구 </item>
+        <item>서울특별시 마포구 공덕동 105-11 서울서부지방법원 앞 </item>
+        <item>서울특별시 마포구 아현동 607-1 애오개역 4번출구 앞 </item>
+        <item>서울특별시 서대문구 영천동 259-1 독립문 어린이 공원 </item>
+        <item>서울특별시 서대문구 대현동 60-11 이대역 4번 출구 </item>
+        <item>서울특별시 서대문구 북아현동 251-78 아현동 가구거리 </item>
+        <item>서울특별시 서대문구 통일로 380-4 무악재역1번 출구 </item>
+        <item>서울특별시 서대문구 대신동 143-1 봉원고가차도 밑 </item>
+        <item>서울특별시 서대문구 홍은동 산25-3 명지전문대학교 정문 앞 </item>
+        <item>서울특별시 서대문구 북가좌동 477-1 북가좌1동 주민센터 </item>
+        <item>서울특별시 서대문구 북가좌동 470-1 모래내 우체국 </item>
+        <item>서울특별시 서대문구 연희동 530 남가좌1동 주민센터 </item>
+        <item>서울특별시 서대문구 북가좌동 70-119 연가초등학교 옆 </item>
+        <item>서울특별시 서대문구 남가좌동 185-21 남가좌동 시장삼거리 </item>
+        <item>서울특별시 서대문구 북가좌동 400 북가좌 삼거리 </item>
+        <item>서울특별시 서대문구 남가좌동 124 가재울 뉴타운 주유소 옆 </item>
+        <item>서울특별시 서대문구 미근동 317-1 임광빌딩 앞 </item>
+        <item>서울특별시 서대문구 연희로 182 서대문소방서 </item>
+        <item>서울특별시 서대문구 충정로2가 138 서대문역 8번출구 앞 </item>
+        <item>서울특별시 서대문구 홍은동 387-16 홍연2교옆 </item>
+        <item>서울특별시 서대문구 거북골로19길 20 북가좌 초등학교 </item>
+        <item>서울특별시 서대문구 북가좌동 352-9 증산3교 앞 </item>
+        <item>서울특별시 서대문구 남가좌동 293-3 가좌역 4번출구 앞 </item>
+        <item>서울특별시 서대문구 충정로3가 56-1 충정로역 7번출구 뒤 </item>
+        <item>서울특별시 마포구 마포나루길 467 망원초록길 입구 </item>
+        <item>서울특별시 마포구 동교로 7 망원2빗물펌프장 앞 </item>
+        <item>서울특별시 마포구 연남로 30 하늘채코오롱아파트 건너편 </item>
+        <item>서울특별시 마포구 월드컵로 119  SK망원동주유소 건너편 </item>
+        <item>서울특별시 마포구 현석동 106-32 마포 신수공원 앞 </item>
+        <item>서울특별시 마포구 하늘공원로 108-1 월드컵공원 </item>
+        <item>서울특별시 서대문구 연희로37안길 51 홍은동 정원여중 입구 </item>
+        <item>서울특별시 서대문구 응암로 66 정명학원 </item>
+        <item>서울특별시 서대문구 연희동 519-7 연서어린이공원 </item>
+        <item>서울특별시 서대문구 불광천길 36 증산교 앞 </item>
+        <item>서울특별시 서대문구 연희동 446-76 모래내고가차도 </item>
+        <item>서울특별시 서대문구 홍제천로 48 연희교차로 인근 </item>
+        <item>서울특별시 서대문구 충정로3가 155-4 충청2교 </item>
+        <item>서울특별시 마포구 성산동 515 서울 월드컵 경기장 </item>
+        <item>서울특별시 영등포구 의사당대로 1 1 </item>
+        <item>서울특별시 영등포구 국회대로76길 10 13-1 </item>
+        <item>서울특별시 영등포구 여의공원로 101 101 </item>
+        <item>서울특별시 영등포구 국회대로 지하758 758 </item>
+        <item>서울특별시 영등포구 의사당대로 8 8 </item>
+        <item>서울특별시 영등포구 의사당대로 97 97 </item>
+        <item>서울특별시 영등포구 여의공원로 13 13 </item>
+        <item>서울특별시 영등포구 여의동로 지하343 여의나루역 1번출구 앞 </item>
+        <item>서울특별시 영등포구 국제금융로 24 24-3 </item>
+        <item>서울특별시 영등포구 은행로 59 2-11 </item>
+        <item>서울특별시 영등포구 국회대로68길 7 26 </item>
+        <item>서울특별시 영등포구 의사당대로 88 27-1 </item>
+        <item>서울특별시 영등포구 여의대로 38 27 </item>
+        <item>서울특별시 영등포구 여의대로 38 금융감독원 앞 </item>
+        <item>서울특별시 영등포구 국제금융로7길 37 여의도고등학교 앞 </item>
+        <item>서울특별시 영등포구 국제금융로7길 27 삼부아파트 1동 앞 </item>
+        <item>서울특별시 영등포구 국제금융로8길 2 NH농협은행 앞 </item>
+        <item>서울특별시 영등포구 여의나루로 76 증권거래소 앞 </item>
+        <item>서울특별시 영등포구 의사당대로 127 롯데캐슬엠파이어 옆 </item>
+        <item>서울특별시 영등포구 의사당대로 110 미성아파트 A동 앞 </item>
+        <item>서울특별시 영등포구 여의대방로 439 여의도초등학교 앞 </item>
+        <item>서울특별시 영등포구 63로 45 시범아파트버스정류장 옆 </item>
+        <item>서울특별시 영등포구 국제금융로 108-6 진주아파트상가 앞 </item>
+        <item>서울특별시 영등포구 국제금융로 86 롯데캐슬 앞 </item>
+        <item>서울특별시 영등포구 의사당대로 지하166 앙카라공원 앞 </item>
+        <item>서울특별시 영등포구 의사당대로 지하166 샛강역 1번출구 앞 </item>
+        <item>서울특별시 영등포구 양화동 17-4 양평2나들목 보행통로 입구 </item>
+        <item>서울특별시 영등포구 양평동4가 202-1 선유도역 3번출구 앞 </item>
+        <item>서울특별시 영등포구 양평동4가 20-4 양평1 보행육교 앞 </item>
+        <item>서울특별시 영등포구 당산로 111-2 영등포구청역 1번출구 </item>
+        <item>서울특별시 영등포구 양평동1가 115-2 남부고용노동지청 남측 </item>
+        <item>서울특별시 영등포구 양평동3가 14-1 양평우림 이비즈센타 앞 </item>
+        <item>서울특별시 영등포구 양평동3가 60-1 한국연예사관 건물 앞 </item>
+        <item>서울특별시 영등포구 신길동 399 영등포구민체육센터 앞 </item>
+        <item>서울특별시 영등포구 신길동 250-4 신길동 우리은행 옆 </item>
+        <item>서울특별시 영등포구 문래동3가 68-1 문래동자이아파트 앞 </item>
+        <item>서울특별시 영등포구 신길동 4490 보라매 두산위브 앞 </item>
+        <item>서울특별시 영등포구 당산동4가 96-2 제2구민체육센타 앞 </item>
+        <item>서울특별시 영등포구 영등포동7가 58-2 유스호스텔 앞 </item>
+        <item>서울특별시 영등포구 문래동3가 55-12 문래역 4번출구 앞 </item>
+        <item>서울특별시 영등포구 도림동 255-2 신길우성1차아파트 앞 공원 </item>
+        <item>서울특별시 영등포구 신길동 215-28 신길선원가와인아파트 앞 </item>
+        <item>서울특별시 영등포구 양평동3가 48-1 이앤씨드림타워 앞 </item>
+        <item>서울특별시 영등포구 영등포동8가 82-4 영등포삼환아파트 앞 </item>
+        <item>서울특별시 영등포구 당산동4가 35-24 삼성생명 당산사옥 앞 </item>
+        <item>서울특별시 영등포구 당산동5가 14-4 당산역 10번출구 앞 </item>
+        <item>서울특별시 영등포구 여의도동8-13 초원아파트 앞 </item>
+        <item>서울특별시 영등포구 여의도동 8 여의도중학교 옆 </item>
+        <item>서울특별시 영등포구 신길동 249 우주마루아파트 201동 앞 </item>
+        <item>서울특별시 영등포구 신길동853 서울지방병무청 버스정류장 </item>
+        <item>서울특별시 영등포구 신길동4884 보라매역4번출구(순흥빌딩) </item>
+        <item>서울특별시 영등포구 신길동3596 남서울아파트 14동앞 </item>
+        <item>서울특별시 영등포구 신길동263-76 도림신협 앞 </item>
+        <item>서울특별시 영등포구 신길동373-1 도림4거리 </item>
+        <item>서울특별시 영등포구 도림동 159-70 동아에코빌입구 </item>
+        <item>서울특별시 영등포구 신길동95-256 신길삼거리(우리은행) </item>
+        <item>서울특별시 영등포구 영등포동1가35 신길역3번출구 </item>
+        <item>서울특별시 영등포구 신길동1368 대방역6번출구 </item>
+        <item>서울특별시 영등포구 여의서로 160 여의도 마리나선착장 앞 </item>
+        <item>서울특별시 영등포구 문래로 56 영문초등학교 사거리 </item>
+        <item>서울특별시 영등포구 선유로 34 근로자회관 사거리 </item>
+        <item>서울특별시 영등포구 영등포로 96 교보생명보험 앞 </item>
+        <item>서울특별시 영등포구 영등포로 124 영등포유통상가 사거리 </item>
+        <item>서울특별시 영등포구 영등포로 177 영등포청과시장 사거리 </item>
+        <item>서울특별시 영등포구 양평로 76 삼성화재 사옥 옆 </item>
+        <item>서울특별시 영등포구 양평로 58 그랜드컨벤션센터 앞 </item>
+        <item>서울특별시 영등포구 여의동로 48 샛강생태공원장문자센터 앞 </item>
+        <item>서울특별시 영등포구 당산로52길 3 당산육갑문 </item>
+        <item>서울특별시 중구 정동길 2-1 정동사거리 </item>
+        <item>서울특별시 종로구 사직로 지하130 경복궁역 7번출구 앞 </item>
+        <item>서울특별시 종로구 사직로 지하130 경복궁역 4번출구 뒤 </item>
+        <item>서울특별시 종로구 세종대로 지하189 세종로공원 </item>
+        <item>서울특별시 종로구 세종대로 지하172 광화문역 2번출구 앞 </item>
+        <item>서울특별시 종로구 삼봉로 43 종로구청 옆 </item>
+        <item>서울특별시 종로구 세종대로 지하172 광화문역 7번출구 앞 </item>
+        <item>서울특별시 종로구 새문안로 55 서울역사박물관 앞 </item>
+        <item>서울특별시 종로구 새문안로 82 광화문S타워 앞 </item>
+        <item>서울특별시 종로구 세종대로 지하172 광화문역 6번출구 옆 </item>
+        <item>서울특별시 중구 세종대로 136 청계광장 옆 </item>
+        <item>서울특별시 중구 을지로 지하12 서울광장 옆 </item>
+        <item>서울특별시 중구 세종대로 지하101 1번출구 뒤 </item>
+        <item>서울특별시 중구 통일로 13 서울역 광장 파출소 옆 </item>
+        <item>서울특별시 종로구 삼청로 30 국립현대미술관 서울관 </item>
+        <item>서울특별시 종로구 율곡로 33 신한은행 안국역지점 옆 </item>
+        <item>서울특별시 종로구 종로 47 종각역 1번출구 앞 </item>
+        <item>서울특별시 중구 청계천로 30 광교사거리 남측 </item>
+        <item>서울특별시 중구 을지로 지하42 을지로입구역 4번출구 앞 </item>
+        <item>서울특별시 중구 을지로 66 한국외환은행 본점 앞 </item>
+        <item>서울특별시 중구 명동길 74 명동성당 앞 </item>
+        <item>서울특별시 중구 퇴계로 77 신세계백화점 본점 앞 </item>
+        <item>서울특별시 종로구 율곡로 지하62 안국역 5번출구 앞 </item>
+        <item>서울특별시 종로구 삼일대로 428 낙원상가 옆 </item>
+        <item>서울특별시 종로구 종로 99 탑골공원 앞 </item>
+        <item>서울특별시 종로구 청계천로 93 청계2가 사거리 옆 </item>
+        <item>서울특별시 중구 남대문로10길 33 삼각동 118 </item>
+        <item>서울특별시 중구 을지로 79 을지로2가 사거리 북측 </item>
+        <item>서울특별시 중구 을지로 100 을지로2가 사거리 남측 </item>
+        <item>서울특별시 종로구 종로 지하129 종로3가역 2번출구 뒤 </item>
+        <item>서울특별시 종로구 종로 지하129 15번출구 앞 </item>
+        <item>서울특별시 중구 충무로 15 티마크호텔 앞 </item>
+        <item>서울특별시 종로구 창경궁로 185 창경궁 입구 </item>
+        <item>서울특별시 종로구 창경궁로 109 세운스퀘어 앞 </item>
+        <item>서울특별시 종로구 종로 185 종로4가 사거리 </item>
+        <item>서울특별시 종로구 창경궁로 271-1 혜화동 로터리 </item>
+        <item>서울특별시 종로구 대학로 지하120 혜화역 3번출구 뒤 </item>
+        <item>서울특별시 종로구 대학로 104 대학로 마로니에공원 </item>
+        <item>서울특별시 종로구 율곡로 238 예일빌딩(율곡로) 앞 </item>
+        <item>서울특별시 종로구 율곡로 259 성균관대 E하우스 앞 </item>
+        <item>서울특별시 종로구 김상옥로 29 서울보증보험본사 앞 </item>
+        <item>서울특별시 중구 마장로 3 맥스타일 </item>
+        <item>서울특별시 중구 장충단로 지하230 동대문역사문화공원역 9번출구 앞 </item>
+        <item>서울특별시 종로구 교북동 10-1 독립문역 사거리 </item>
+        <item>서울특별시 종로구 사직로9길 5 사직동주민센터 </item>
+        <item>서울특별시 종로구 사직로8길 39 KEB 하나은행(내자동 지점) 앞 </item>
+        <item>서울특별시 종로구 청운동 108-22 청운초교 앞 삼거리 </item>
+        <item>서울특별시 종로구 창덕궁길 191 중앙고입구 삼거리 </item>
+        <item>서울특별시 종로구 재동 19 재동초교 앞 삼거리 </item>
+        <item>서울특별시 종로구 창덕궁1길 3 포르투갈 대사관 앞 </item>
+        <item>서울특별시 종로구 연건동 178-3 서울사대부속초교 앞 </item>
+        <item>서울특별시 종로구 대학로 65 KT혜화지사 앞 </item>
+        <item>서울특별시 종로구 창경궁로 234 성대입구 사거리 </item>
+        <item>서울특별시 종로구 율곡로 169 원남동사거리 </item>
+        <item>서울특별시 종로구 숭인동 81-39 동묘앞역 1번출구 뒤 </item>
+        <item>서울특별시 종로구 청계천로 407 청계8가 사거리 </item>
+        <item>서울특별시 종로구 숭인동 1311 신설동역 11번출구 뒤 </item>
+        <item>서울특별시 종로구 지봉로 87 창신역 1번출구 앞 </item>
+        <item>서울특별시 종로구 무악동 41-7 독립문역 3번출구 뒤 </item>
+        <item>서울특별시 종로구 서린동 93-2 SK 서린빌딩 앞 </item>
+        <item>서울특별시 종로구 세종로 76-5 광화문 시민열린마당 </item>
+        <item>서울특별시 중구 서소문로 지하127 시청역(2호선) 9번출구 뒤 </item>
+        <item>서울특별시 중구 동호로 지하256 동대입구역 6번출구 뒤 </item>
+        <item>서울특별시 중구 다산로 지하122 약수역 4번출구 뒤 </item>
+        <item>서울특별시 중구 다산로14길 41 약수어린이공원 </item>
+        <item>서울특별시 중구 청구로 지하77 청구역2번출구 앞 </item>
+        <item>서울특별시 중구 다산로40길 37 다산 어린이공원 </item>
+        <item>서울특별시 중구 세종대로 지하2 서울역 4번출구 앞 </item>
+        <item>서울특별시 중구 다산로 지하260 청계7가 사거리 </item>
+        <item>서울특별시 중구 세종대로 지하2 서울역9번출구 </item>
+        <item>서울특별시 중구 동호로 330 CJ제일제당 앞 </item>
+        <item>서울특별시 중구 장충동2가 200-99 장충체육관 </item>
+        <item>서울특별시 중구 신당동 357-1 약수역 10번출구 앞 </item>
+        <item>서울특별시 중구 신당동 99 신당역 5번 출구 </item>
+        <item>서울특별시 중구 청파로 456 종로학원본원 앞 </item>
+        <item>서울특별시 종로구 서린동 26-1 종각역 5번출구 </item>
+        <item>서울특별시 종로구 성균관로 91 올림픽기념 국민생활관 앞 </item>
+        <item>서울특별시 중구 을지로 227 훈련원공원주차장 앞 </item>
+        <item>서울특별시 종로구 혜화동 56 동성중학교 앞 </item>
+        <item>서울특별시 마포구 구룡길 19 상암한화오벨리스크 1차 앞 </item>
+        <item>서울특별시 마포구 월드컵북로 502-36 상암월드컵파크 10단지 앞 </item>
+        <item>서울특별시 마포구 월드컵북로 501 상암월드컵파크 9단지 앞 </item>
+        <item>서울특별시 마포구 가양대로 189 부엉이근린공원 앞 </item>
+        <item>서울특별시 마포구 월드컵북로60길 13 DMC빌 앞 </item>
+        <item>서울특별시 마포구 상암산로1길 92 상암월드컵파크 7단지 앞 </item>
+        <item>서울특별시 마포구 상암산로1길 71 마포구 육아보육정보센터 앞 </item>
+        <item>서울특별시 마포구 월드컵북로 424 LG CNS앞 </item>
+        <item>서울특별시 마포구 월드컵북로 396 누리꿈스퀘어 옆 </item>
+        <item>서울특별시 마포구 상암산로1길 26 상암중학교 옆 </item>
+        <item>서울특별시 마포구 월드컵북로 366 DMC홍보관 </item>
+        <item>서울특별시 마포구 매봉산로 37 DMC산학협력연구센터 앞 </item>
+        <item>서울특별시 마포구 매봉산로 8 상암월드컵파크 3단지 후문 </item>
+        <item>서울특별시 마포구 매봉산로2길 16 상암동주민센터 옆 </item>
+        <item>서울특별시 마포구 성암로 지하184 디지털미디어시티역 9번출구 앞 </item>
+        <item>서울특별시 마포구 월드컵북로 502-7 상암월드컵파크 1단지 </item>
+        <item>서울특별시 은평구 수색로 지하175 디지털미디어시티역 2번출구 앞 </item>
+        <item>서울특별시 마포구 월드컵로 지하240 1 </item>
+        <item>서울특별시 영등포구 당산로 42 1 </item>
+        <item>서울특별시 마포구 월드컵북로47길 10 1 </item>
+        <item>서울특별시 마포구 월드컵로 212 1 </item>
+        <item>서울특별시 광진구 능동로 지하210 어린이대공원역 3번출구 앞 </item>
+        <item>서울특별시 광진구 능동로 76 광진구의회 앞 </item>
+        <item>서울특별시 광진구 능동로 10 뚝섬유원지역 1번출구 앞 </item>
+        <item>서울특별시 광진구 아차산로 262 더샵스타시티 C동 앞 </item>
+        <item>서울특별시 광진구 뚝섬로 596 신자초교입구교차로 </item>
+        <item>서울특별시 광진구 아차산로 355 타워더모스트 광진아크로텔 </item>
+        <item>서울특별시 성동구 광나루로 249 송정금호어울림 아파트 앞 </item>
+        <item>서울특별시 성동구 성수이로 147 아이에스비즈타워 앞 </item>
+        <item>서울특별시 성동구 성수이로 118 라성아카데미타워 앞 </item>
+        <item>서울특별시 성동구 뚝섬로 379 이마트 버스정류소 옆 </item>
+        <item>서울특별시 성동구 왕십리로11길 9 서울숲남문 버스정류소 옆 </item>
+        <item>서울특별시 성동구 왕십리로 지하77 서울숲역 4번 출구 옆 </item>
+        <item>서울특별시 성동구 아차산로 18 뚝섬역 1번 출구 옆 </item>
+        <item>서울특별시 성동구 아차산로 18 뚝섬역 5번 출구 정류소 옆 </item>
+        <item>서울특별시 성동구 아차산로 171 성수사거리 버스정류장 앞 </item>
+        <item>서울특별시 광진구 자양로3길 7 광양중학교 앞 </item>
+        <item>서울특별시 광진구 광나루로 355 광진메디컬앞 </item>
+        <item>서울특별시 성동구 마장동 610 청계천 박물관 앞 </item>
+        <item>서울특별시 성동구 홍익동 590 양지사거리 </item>
+        <item>서울특별시 성동구 하왕십리동 960-3 상왕십리역 4번 출구 앞 </item>
+        <item>서울특별시 성동구 행당동 188-9 왕십리역 11번 출구 앞 </item>
+        <item>서울특별시 성동구 금호동3가 1575-3 금호역 1번출구 앞 </item>
+        <item>서울특별시 성동구 옥수동 산5-148 옥수동성당 옆 </item>
+        <item>서울특별시 성동구 금호동2가 1220-1 래미안금호하이리버 아파트 102동 옆 </item>
+        <item>서울특별시 성동구 행당동 20-2 한양대병원사거리 </item>
+        <item>서울특별시 성동구 용답동 224-1 용답토속공원 앞 </item>
+        <item>서울특별시 성동구 용답동 224-3 장안평역 8번 출구 앞 </item>
+        <item>서울특별시 성동구 하왕십리동 286-24 청계벽산아파트 텐즈힐아파트 정류소 </item>
+        <item>서울특별시 성동구 금호동4가 1101 우리은행 금호동 지점 앞 </item>
+        <item>서울특별시 성동구 금호동2가 1205-1 금호사거리 </item>
+        <item>서울특별시 성동구 응봉동 134-26 응봉삼거리 </item>
+        <item>서울특별시 성동구 행당동 347-11 행당역 2번출구 앞 </item>
+        <item>서울특별시 성동구 행당동 10 한양대후문역 부근 (양키캔들 앞) </item>
+        <item>서울특별시 성동구 용답동 102-1 답십리역 8번출구 앞 </item>
+        <item>서울특별시 광진구 중곡동 263-1 군자교교차로 </item>
+        <item>서울특별시 광진구 군자동 499 군자역 7번출구 베스트샵 앞 </item>
+        <item>서울특별시 광진구 구의동 546-6 강변역 1,4번 출구 아래 </item>
+        <item>서울특별시 광진구 구의동 546-3 구의공원(테크노마트 앞) </item>
+        <item>서울특별시 광진구 광장동 561-15 광남중학교 </item>
+        <item>서울특별시 광진구 자양동 722 잠실대교북단 교차로 </item>
+        <item>서울특별시 광진구 자양동 738 자양나들목 </item>
+        <item>서울특별시 광진구 구의동 96 아차산역 3번출구 </item>
+        <item>서울특별시 성동구 마장동 610 서울시설공단 앞 </item>
+        <item>서울특별시 광진구 구의강변로 106 구의삼성쉐르빌 앞 </item>
+        <item>서울특별시 광진구 구의강변로 64 대림아크로리버 앞 </item>
+        <item>서울특별시 광진구 동일로 459 중곡 성원APT 앞 </item>
+        <item>서울특별시 광진구 천호대로 682 아차산역 사거리 </item>
+        <item>서울특별시 광진구 강변역로 17 구의3동주민센터 </item>
+        <item>서울특별시 성동구 금호동4가 367-1 달맞이공원 </item>
+        <item>서울특별시 성동구 무학로10길 6 도선동 주민센터 앞 </item>
+        <item>서울특별시 성동구 고산자로 260 성동광진 교육지원청 앞 </item>
+        <item>서울특별시 성동구 동일로 213 비전교회 앞 </item>
+        <item>서울특별시 성동구 왕십리로 64 서울숲역 2번출구 앞 </item>
+        <item>서울특별시 성동구 동일로 313 군자지하보도 앞 </item>
+        <item>서울특별시 성동구 광나루로 302 성동세무서 건너편 </item>
+        <item>서울특별시 성동구 동호로 99 금호역 3번출구 </item>
+        <item>서울특별시 성동구 한림말길 56 옥수역 3번출구 </item>
+        <item>서울특별시 성동구 아차산로 113 성수역 2번출구 앞 </item>
+        <item>서울특별시 동대문구 청계천로 417 청계8가사거리 부근 </item>
+        <item>서울특별시 성동구 독서당로 381 응봉동현대아파트 정류소 </item>
+        <item>서울특별시 광진구 군자로 74 어린이대공원역6번출구 </item>
+        <item>서울특별시 광진구 능동로 398 국립정신 건강센터 앞 </item>
+        <item>서울특별시 광진구 능동로 216 구의문주차장 앞 </item>
+        <item>서울특별시 광진구 능동로 216 아차산역4번출구 </item>
+        <item>서울특별시 광진구 용마산로 120 중앙농협 중곡지점 </item>
+        <item>서울특별시 광진구 아차산로 552 광나루역 3번 출구 </item>
+        <item>서울특별시 광진구 구천면로 2 광진청소년수련관 </item>
+        <item>서울특별시 성동구 광나루로 303-1 성동세무서 부근 </item>
+        <item>서울특별시 성동구 마장로 292-1 마장역 4번출구 </item>
+        <item>서울특별시 성동구 무수막길 97 신금호역 3번출구 뒤 </item>
+        <item>서울특별시 성동구 용답25길 1 용답초등학교 </item>
+        <item>서울특별시 성동구 성수일로 27 경일중학교 앞 </item>
+        <item>서울특별시 성동구 마장로39길 51 청계천 생태교실 앞 </item>
+        <item>서울특별시 광진구 군자동 374-8 광진광장 교통섬 </item>
+        <item>서울특별시 성동구 성수동2가 569-3 성수2가1동 공영주차장 인근 </item>
+        <item>서울특별시 성동구 마장로42길 14 마장동 주민센터 </item>
+        <item>서울특별시 동대문구 한천로 329 휘경2동 주민센터 </item>
+        <item>서울특별시 동대문구 용두동 65-25 용신동주민센터 </item>
+        <item>서울특별시 동대문구 장한로 25길 2 장안동 사거리 </item>
+        <item>서울특별시 동대문구 전농로3길 23 답십리초등학교 옆 공원 </item>
+        <item>서울특별시 동대문구 천호대로 26 신설동역9번출구 </item>
+        <item>서울특별시 동대문구 겸재로 21 휘경공고앞 </item>
+        <item>서울특별시 동대문구 이문동186-1 신이문역 2번출구 </item>
+        <item>서울특별시 동대문구 전농로 192 전농삼성아파트 </item>
+        <item>서울특별시 동대문구 제기동122-388 제기2교 </item>
+        <item>서울특별시 동대문구 답십리동 524-1 동대문중 교차로 </item>
+        <item>서울특별시 동대문구 용두동 237-10 시립동부병원 앞 사거리 </item>
+        <item>서울특별시 동대문구 신설동 92-34 신설동역 10번출구 앞 </item>
+        <item>서울특별시 동대문구 용두동 237-10 용두동 사거리 </item>
+        <item>서울특별시 동대문구 용두동 696-13 용두동 레미안허브리츠아파트 앞 </item>
+        <item>서울특별시 동대문구 전농동 135-5 시립대 앞 </item>
+        <item>서울특별시 동대문구 답십리동 94-2 청솔우성아파트 앞 </item>
+        <item>서울특별시 동대문구 사가정로 62 동대문중학교 옆(버스정류장 부근) </item>
+        <item>서울특별시 동대문구 사가정로 119 전농사거리 교통섬(전농서적 앞) </item>
+        <item>서울특별시 동대문구 서울시립대로 161 서울시립대 정문 앞(시더프라자빌딩 앞) </item>
+        <item>서울특별시 동대문구 서울시립대로 31 전농동 동아아파트 앞(T-World 앞 보도) </item>
+        <item>서울특별시 동대문구 전농로 34 답십리초등학교 앞(현대시장 옆) </item>
+        <item>서울특별시 동대문구 장한로6길 95 군자교녹지대 동측 앞 </item>
+        <item>서울특별시 동대문구 사가정로 240 장안동삼거리 교통섬 </item>
+        <item>서울특별시 동대문구 한천로 290 휘봉고등학교 앞 </item>
+        <item>서울특별시 동대문구 천호대로 145 동대문구 보건소 </item>
+        <item>서울특별시 동대문구 천호대로 269 답십리역 1번출구 </item>
+        <item>서울특별시 동대문구 홍릉로 1 청량리 기업은행 앞 </item>
+        <item>서울특별시 동대문구 이문로 107 외국어대 정문 앞 </item>
+        <item>서울특별시 동대문구 이문로1길 11 시조사 앞 (청량고정문 옆) </item>
+        <item>서울특별시 동대문구 회기로 56 세종대왕기념관 교차로 </item>
+        <item>서울특별시 동대문구 회기로 85 KAIST 경영대학 앞 </item>
+        <item>서울특별시 동대문구 한천로43길 12-14 서울시립대 정보기술관 </item>
+        <item>서울특별시 동대문구 한천로43길 12-14 서울시립대 후문 </item>
+        <item>서울특별시 동대문구 왕산로 205 KEB하나은행 청량리역지점 </item>
+        <item>서울특별시 동대문구 청계천로 563 용두역 4번출구 </item>
+        <item>서울특별시 동대문구 천호대로 231 신답역 빵굼터 앞 </item>
+        <item>서울특별시 동대문구 장안벚꽃로 77 동대문구민체육센터 (육교아래) </item>
+        <item>서울특별시 양천구 목동 559 KB국민은행 염창역 지점 앞 </item>
+        <item>서울특별시 양천구 목동 813 목동사거리 부근 </item>
+        <item>서울특별시 양천구 목동 904-3 목4동주민센터 옆 </item>
+        <item>서울특별시 양천구 목동 451 오목교역 7번출구 앞 </item>
+        <item>서울특별시 양천구 신정동 1095 남부법원검찰청 교차로 </item>
+        <item>서울특별시 양천구 신월동 894 신정네거리역 </item>
+        <item>서울특별시 양천구 중앙로 209 신정3동주민센터 </item>
+        <item>서울특별시 양천구 신정동 319-3 서울출입국관리사무소 앞 </item>
+        <item>서울특별시 양천구 신정동 760-2 신정3동 현장민원실 앞 </item>
+        <item>서울특별시 양천구 신정동 759-2 서부화물트럭터미널 사거리 </item>
+        <item>서울특별시 양천구 신월동 1063-4 신일해피트리아파트 앞 </item>
+        <item>서울특별시 양천구 신월동 905 강월초교입구 사거리 </item>
+        <item>서울특별시 양천구 신월동 790 양서중학교 옆 </item>
+        <item>서울특별시 양천구 신월동 790 한국SGI 양천문화회관 앞 </item>
+        <item>서울특별시 양천구 목동서로 355 햇빛문고 앞 </item>
+        <item>서울특별시 양천구 등촌로 2 홍익병원앞 교차로 </item>
+        <item>서울특별시 양천구 신월로 97 서울강월초등학교 앞 </item>
+        <item>서울특별시 용산구 원효로4가 109-10 목월공원 앞 </item>
+        <item>서울특별시 용산구 한남동 726-494 한강진역 2번 출구 앞 </item>
+        <item>서울특별시 용산구 한남동 725-17 한남초교 앞 보도육교 </item>
+        <item>서울특별시 용산구 문배동 34-10 문배어린이공원 앞 </item>
+        <item>서울특별시 용산구 한강로3가 16-8 전자랜드 본관 앞 </item>
+        <item>서울특별시 용산구 동자동 14-229 서울역 12번 출구 앞 </item>
+        <item>서울특별시 용산구 서빙고동 235-5 서빙고동 금호맨션 앞 </item>
+        <item>서울특별시 용산구 독서당로 18 한남 유수지 복개주차장 </item>
+        <item>서울특별시 용산구 용산동2가 5-1812 이태원지하보도 </item>
+        <item>서울특별시 용산구 용산동2가 6-7 녹사평역1번출구 </item>
+        <item>서울특별시 용산구 용산동1가 8-4 용산전쟁기념관 </item>
+        <item>서울특별시 용산구 한강로1가 228-1 삼각지역 3번출구 </item>
+        <item>서울특별시 용산구 이촌동301-5 LIG강촌아파트 103동앞 </item>
+        <item>서울특별시 용산구 한강대로 115 신용산역 6번출구 앞 </item>
+        <item>서울특별시 용산구 한강대로 161 삼각지역 4번출구 앞 </item>
+        <item>서울특별시 용산구 청파로47길 100 숙명여대 입구 교차로 </item>
+        <item>서울특별시 용산구 원효로97길 33-4 선린인터넷 고등학교 </item>
+        <item>서울특별시 용산구 한강대로 349 청파동입구 교차로 </item>
+        <item>서울특별시 용산구 이촌로 219 이촌1동 마을공원 </item>
+        <item>서울특별시 용산구 효창원로 161 효창동주민센터 앞 </item>
+        <item>서울특별시 용산구 서빙고로 279 서빙고동 주민센터 앞 </item>
+        <item>서울특별시 은평구 녹번동 85-4 은평예술회관 </item>
+        <item>서울특별시 은평구 응암동 84-14 응암1동사무소 </item>
+        <item>서울특별시 은평구 진관동 45-21 진관동 은빛초등학교 </item>
+        <item>서울특별시 은평구 진관동 13-20 은평뉴타운 아이파크 </item>
+        <item>서울특별시 은평구 진관동 5-8 은평뉴타운 푸르지오 </item>
+        <item>서울특별시 은평구 대조동 207-8 연신내역 5번출구 </item>
+        <item>서울특별시 은평구 역촌동 43-11 CJ 드림시티 </item>
+        <item>서울특별시 은평구 녹번동 153-31 은평평화공원(역촌역4번출구) </item>
+        <item>서울특별시 은평구 응암동 604-5 응암오거리 </item>
+        <item>서울특별시 은평구 응암동 90-15 이마트 은평점 </item>
+        <item>서울특별시 은평구 응암동 610-3 새절역 2번출구 </item>
+        <item>서울특별시 은평구 역촌동 15-40 평생학습관 앞 </item>
+        <item>서울특별시 은평구 녹번동 55 녹번역 4번출구 </item>
+        <item>서울특별시 은평구 진관동 242-14 신도고등학교 </item>
+        <item>서울특별시 은평구 불광동 355 국민은행 연서지점 </item>
+        <item>서울특별시 은평구 진관동 161-9 메뚜기다리 </item>
+        <item>서울특별시 은평구 불광동 285-43 불광역 2번출구 </item>
+        <item>서울특별시 은평구 불광동 276-6 불광역 8번출구 </item>
+        <item>서울특별시 은평구 불광동 304-5 연신내역 3번출구 인근 </item>
+        <item>서울특별시 은평구 진관동 133-29 은평역사한옥박물관 </item>
+    </string-array>
+    <string-array name="station_size">
+        <item>20</item>
+        <item>14</item>
+        <item>13</item>
+        <item>5</item>
+        <item>10</item>
+        <item>5</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>25</item>
+        <item>15</item>
+        <item>15</item>
+        <item>5</item>
+        <item>10</item>
+        <item>10</item>
+        <item>5</item>
+        <item>15</item>
+        <item>10</item>
+        <item>20</item>
+        <item>15</item>
+        <item>20</item>
+        <item>15</item>
+        <item>20</item>
+        <item>15</item>
+        <item>5</item>
+        <item>15</item>
+        <item>8</item>
+        <item>10</item>
+        <item>7</item>
+        <item>10</item>
+        <item>10</item>
+        <item>13</item>
+        <item>20</item>
+        <item>20</item>
+        <item>11</item>
+        <item>9</item>
+        <item>10</item>
+        <item>9</item>
+        <item>12</item>
+        <item>7</item>
+        <item>11</item>
+        <item>15</item>
+        <item>10</item>
+        <item>10</item>
+        <item>12</item>
+        <item>8</item>
+        <item>15</item>
+        <item>10</item>
+        <item>12</item>
+        <item>15</item>
+        <item>7</item>
+        <item>20</item>
+        <item>8</item>
+        <item>15</item>
+        <item>7</item>
+        <item>10</item>
+        <item>20</item>
+        <item>20</item>
+        <item>15</item>
+        <item>20</item>
+        <item>15</item>
+        <item>10</item>
+        <item>10</item>
+        <item>8</item>
+        <item>15</item>
+        <item>20</item>
+        <item>8</item>
+        <item>10</item>
+        <item>15</item>
+        <item>10</item>
+        <item>15</item>
+        <item>10</item>
+        <item>15</item>
+        <item>9</item>
+        <item>15</item>
+        <item>40</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>20</item>
+        <item>10</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>20</item>
+        <item>15</item>
+        <item>15</item>
+        <item>15</item>
+        <item>13</item>
+        <item>20</item>
+        <item>20</item>
+        <item>30</item>
+        <item>12</item>
+        <item>12</item>
+        <item>13</item>
+        <item>35</item>
+        <item>15</item>
+        <item>20</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>20</item>
+        <item>12</item>
+        <item>30</item>
+        <item>10</item>
+        <item>12</item>
+        <item>20</item>
+        <item>20</item>
+        <item>26</item>
+        <item>20</item>
+        <item>10</item>
+        <item>10</item>
+        <item>20</item>
+        <item>10</item>
+        <item>10</item>
+        <item>20</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>20</item>
+        <item>10</item>
+        <item>20</item>
+        <item>10</item>
+        <item>10</item>
+        <item>15</item>
+        <item>15</item>
+        <item>20</item>
+        <item>10</item>
+        <item>15</item>
+        <item>10</item>
+        <item>8</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>14</item>
+        <item>17</item>
+        <item>15</item>
+        <item>12</item>
+        <item>12</item>
+        <item>15</item>
+        <item>15</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>20</item>
+        <item>7</item>
+        <item>7</item>
+        <item>7</item>
+        <item>8</item>
+        <item>7</item>
+        <item>6</item>
+        <item>9</item>
+        <item>11</item>
+        <item>10</item>
+        <item>13</item>
+        <item>10</item>
+        <item>25</item>
+        <item>7</item>
+        <item>5</item>
+        <item>10</item>
+        <item>4</item>
+        <item>28</item>
+        <item>10</item>
+        <item>8</item>
+        <item>15</item>
+        <item>15</item>
+        <item>7</item>
+        <item>20</item>
+        <item>10</item>
+        <item>8</item>
+        <item>8</item>
+        <item>10</item>
+        <item>10</item>
+        <item>7</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>5</item>
+        <item>8</item>
+        <item>10</item>
+        <item>8</item>
+        <item>10</item>
+        <item>10</item>
+        <item>12</item>
+        <item>10</item>
+        <item>30</item>
+        <item>10</item>
+        <item>18</item>
+        <item>14</item>
+        <item>7</item>
+        <item>10</item>
+        <item>8</item>
+        <item>23</item>
+        <item>8</item>
+        <item>10</item>
+        <item>15</item>
+        <item>14</item>
+        <item>8</item>
+        <item>8</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>8</item>
+        <item>8</item>
+        <item>12</item>
+        <item>12</item>
+        <item>8</item>
+        <item>10</item>
+        <item>10</item>
+        <item>8</item>
+        <item>10</item>
+        <item>8</item>
+        <item>10</item>
+        <item>10</item>
+        <item>7</item>
+        <item>8</item>
+        <item>10</item>
+        <item>7</item>
+        <item>7</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>15</item>
+        <item>15</item>
+        <item>20</item>
+        <item>20</item>
+        <item>8</item>
+        <item>15</item>
+        <item>8</item>
+        <item>20</item>
+        <item>25</item>
+        <item>10</item>
+        <item>9</item>
+        <item>20</item>
+        <item>9</item>
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
+        <item>20</item>
+        <item>10</item>
+        <item>21</item>
+        <item>40</item>
+        <item>8</item>
+        <item>10</item>
+        <item>15</item>
+        <item>15</item>
+        <item>15</item>
+        <item>5</item>
+        <item>10</item>
+        <item>7</item>
+        <item>7</item>
+        <item>10</item>
+        <item>20</item>
+        <item>10</item>
+        <item>16</item>
+        <item>15</item>
+        <item>8</item>
+        <item>7</item>
+        <item>10</item>
+        <item>10</item>
+        <item>20</item>
+        <item>20</item>
+        <item>10</item>
+        <item>14</item>
+        <item>9</item>
+        <item>11</item>
+        <item>10</item>
+        <item>20</item>
+        <item>10</item>
+        <item>15</item>
+        <item>9</item>
+        <item>7</item>
+        <item>20</item>
+        <item>16</item>
+        <item>8</item>
+        <item>10</item>
+        <item>15</item>
+        <item>10</item>
+        <item>8</item>
+        <item>7</item>
+        <item>20</item>
+        <item>20</item>
+        <item>8</item>
+        <item>20</item>
+        <item>10</item>
+        <item>15</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>20</item>
+        <item>10</item>
+        <item>20</item>
+        <item>8</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>15</item>
+        <item>10</item>
+        <item>15</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>20</item>
+        <item>10</item>
+        <item>20</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>8</item>
+        <item>8</item>
+        <item>6</item>
+        <item>13</item>
+        <item>10</item>
+        <item>50</item>
+        <item>20</item>
+        <item>9</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>8</item>
+        <item>6</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>20</item>
+        <item>10</item>
+        <item>20</item>
+        <item>20</item>
+        <item>20</item>
+        <item>20</item>
+        <item>15</item>
+        <item>15</item>
+        <item>20</item>
+        <item>10</item>
+        <item>9</item>
+        <item>10</item>
+        <item>10</item>
+        <item>15</item>
+        <item>15</item>
+        <item>15</item>
+        <item>8</item>
+        <item>20</item>
+        <item>12</item>
+        <item>10</item>
+        <item>10</item>
+        <item>20</item>
+        <item>14</item>
+        <item>6</item>
+        <item>10</item>
+        <item>7</item>
+        <item>10</item>
+        <item>20</item>
+        <item>8</item>
+        <item>16</item>
+        <item>12</item>
+        <item>15</item>
+        <item>15</item>
+        <item>10</item>
+        <item>16</item>
+        <item>20</item>
+        <item>12</item>
+        <item>20</item>
+        <item>14</item>
+        <item>20</item>
+        <item>10</item>
+        <item>15</item>
+        <item>10</item>
+        <item>10</item>
+        <item>20</item>
+        <item>10</item>
+        <item>10</item>
+        <item>9</item>
+        <item>20</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>30</item>
+        <item>20</item>
+        <item>20</item>
+        <item>20</item>
+        <item>10</item>
+        <item>9</item>
+        <item>24</item>
+        <item>18</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>21</item>
+        <item>20</item>
+        <item>10</item>
+        <item>10</item>
+        <item>20</item>
+        <item>18</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>7</item>
+        <item>9</item>
+        <item>10</item>
+        <item>10</item>
+        <item>15</item>
+        <item>8</item>
+        <item>8</item>
+        <item>10</item>
+        <item>15</item>
+    </string-array>
+
+</resources>

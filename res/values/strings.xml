@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">따릉이 Navi</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_station_info">StationInfoActivity</string>
+
+    <string name="title_settings">Settings</string>
+    <string name="title_personal_settings">프로필 관리</string>
+    <string name="station_info">충전소 정보</string>
+    <string name="free_board">자유게시판</string>
+    <string name="notice_board">공지사항</string>
+    <string name="charger_board">충전소별 SNS</string>
+
+    <!-- ProgressBar  -->
+    <string name="progress_bar_title">잠시만 기다려 주세요</string>
+
+    <string name="board_delete_title">게시글을 삭제하시겠습니까?</string>
+    <string name="title_exit">따릉이 Navi를 종료 하시겠습니까?</string>
+    <string name="exit_notice">확인을 누르시면 앱이 완전히 종료됩니다.</string>
+    <string name="confirm">확인</string>
+    <string name="cancle">취소</string>
+    <string name="disconnect_network">네트워크 상태를 확인해주세요.</string>
+    <string name="go_update">EV INFRA 새 버전이 업데이트 되었습니다. 다운로드 페이지로 이동하시겠습니까?</string>
+
+    <string name="no_start_station_title">출발지 설정 오류</string>
+    <string name="no_start_station_message">출발대여소가 설정이 되지 않았습니다.\n출발대여소를 설정해 주세요.</string>
+    <string name="no_end_station_title">도착지 설정 오류</string>
+    <string name="no_end_station_message">도착대여소가 설정이 되지 않았습니다.\n도착대여소를 설정해 주세요.</string>
+    <string name="equal_station_title">대여소 설정 오류</string>
+    <string name="equal_station_message">출발대여소와 도착대여소가 같습니다.\n출발대여소와 도착대여소를 다시 설정해 주세요.</string>
+
+    <string name="no_station_round_title">정류소 검색 오류</string>
+    <string name="no_station_round_message">검색하신 주소의 반경 1km 이내에 따릉이 대여소가 없습니다.</string>
+
+    <string name="hint_search_start">찾을 주소를 입력하세요.</string>
+</resources>
